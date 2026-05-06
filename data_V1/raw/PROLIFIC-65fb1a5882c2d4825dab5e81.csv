@@ -1,0 +1,632 @@
+rt,question,response,time_elapsed,trial_index,accuracy,browser,experiment,block,scenarioType,scenarioIndex,scenarioInstruction
+NA,NA,NA,1351,NA,NA,Firefox,,,,,
+4916,prolific_id,65fb1a5882c2d4825dab5e81,6272,1,NA,Firefox,,,,,
+23336,instruction-all,0,29610,2,NA,Firefox,,,,,
+26768,instruction-infographics-1,0,56381,3,NA,Firefox,,,,,
+19788,instruction-infographics-2,0,76174,4,NA,Firefox,,,,,
+7309,instruction-post-infographics,0,184122,13,NA,Firefox,,,,,
+25641,instruction-scenario,0,209765,14,NA,Firefox,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+NA,scenario,NA,229769,15,NA,Firefox,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+19397,lang_en,Yes,249168,16,NA,Firefox,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+19397,lang_other,No,249168,16,NA,Firefox,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+19397,visual,Yes,249168,16,NA,Firefox,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+19397,concept,No,249168,16,NA,Firefox,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+19397,eyes,Open,249168,16,NA,Firefox,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+34291,word_auditory,Yes,283461,17,NA,Firefox,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+34291,word_orthographic,No,283461,17,NA,Firefox,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+34291,word_say_real,No,283461,17,NA,Firefox,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+34291,word_articulatory_real,Yes,283461,17,NA,Firefox,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+34291,word_articulatory_imagined,No,283461,17,NA,Firefox,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+34291,word_lexical_pure,No,283461,17,NA,Firefox,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+35421,additional-experiences_0,Imagined sounds (not of words),318884,18,NA,Firefox,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+123266,comments_word,"i thought ""I could be in an office full of cats, or plants,I could be outside in a forest area, or I could be at home in a quiet room""",442155,19,NA,Firefox,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+123266,comments_visual,"inside of buildings/ offices. outdoors, but pretty, in my home",442155,19,NA,Firefox,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+123266,comments_concept,no,442155,19,NA,Firefox,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+123266,comments_other,"just ""talking in my head"" and visuals",442155,19,NA,Firefox,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+7118,instruction-scenario,0,449276,20,NA,Firefox,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+NA,scenario,NA,469289,21,NA,Firefox,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+14948,lang_en,Yes,484238,22,NA,Firefox,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+14948,lang_other,No,484238,22,NA,Firefox,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+14948,visual,Yes,484238,22,NA,Firefox,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+14948,concept,No,484238,22,NA,Firefox,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+14948,eyes,Open,484238,22,NA,Firefox,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+28131,word_auditory,Yes,512373,23,NA,Firefox,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+28131,word_orthographic,No,512373,23,NA,Firefox,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+28131,word_say_real,No,512373,23,NA,Firefox,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+28131,word_articulatory_real,No,512373,23,NA,Firefox,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+28131,word_articulatory_imagined,No,512373,23,NA,Firefox,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+28131,word_lexical_pure,No,512373,23,NA,Firefox,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+15725,additional-experiences_0,Imagined sounds (not of words),528099,24,NA,Firefox,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+15725,additional-experiences_1,Emotions,528099,24,NA,Firefox,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+85936,comments_word,"""i want to play my guitar""",614040,25,NA,Firefox,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+85936,comments_visual,"I pictured my guitar setup, my headphones, wires, connectors and my favorite spot to sit or stand",614040,25,NA,Firefox,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+85936,comments_concept,no,614040,25,NA,Firefox,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+85936,comments_other,"I can ""hear and see"" my guitar in my hands, plucking the strings",614040,25,NA,Firefox,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+1697,instruction-scenario,0,615740,26,NA,Firefox,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+NA,scenario,NA,635749,27,NA,Firefox,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+12253,lang_en,Yes,648002,28,NA,Firefox,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+12253,lang_other,No,648002,28,NA,Firefox,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+12253,visual,Yes,648002,28,NA,Firefox,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+12253,concept,No,648002,28,NA,Firefox,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+12253,eyes,Open,648002,28,NA,Firefox,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+27053,word_auditory,Yes,675060,29,NA,Firefox,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+27053,word_orthographic,No,675060,29,NA,Firefox,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+27053,word_say_real,No,675060,29,NA,Firefox,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+27053,word_articulatory_real,No,675060,29,NA,Firefox,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+27053,word_articulatory_imagined,No,675060,29,NA,Firefox,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+27053,attention_check_screen2_follow_instructions,Yes,675060,29,NA,Firefox,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+27053,word_lexical_pure,No,675060,29,NA,Firefox,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+14886,additional-experiences_0,Imagined sounds (not of words),689949,30,NA,Firefox,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+14886,additional-experiences_1,Imagined smells,689949,30,NA,Firefox,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+14886,additional-experiences_2,Emotions,689949,30,NA,Firefox,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+14886,additional-experiences_3,Imagined movements of your body,689949,30,NA,Firefox,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+99236,comments_word,"I want to go camping, in the woods with my husband",789190,31,NA,Firefox,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+99236,comments_visual,"lots of trees, the sounds of nature - birds, light wind through the trees, the smell of campfire, walking around, seeing awesome mountains and trees",789190,31,NA,Firefox,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+99236,comments_concept,no,789190,31,NA,Firefox,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+99236,comments_other,I could feel the chilly morning and warm afternoon,789190,31,NA,Firefox,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+1948,instruction-scenario,0,791140,32,NA,Firefox,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+NA,scenario,NA,811150,33,NA,Firefox,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+9084,lang_en,Yes,820236,34,NA,Firefox,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+9084,lang_other,No,820236,34,NA,Firefox,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+9084,visual,Yes,820236,34,NA,Firefox,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+9084,concept,No,820236,34,NA,Firefox,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+9084,eyes,Open,820236,34,NA,Firefox,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+22922,word_auditory,Yes,843160,35,NA,Firefox,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+22922,word_orthographic,No,843160,35,NA,Firefox,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+22922,word_say_real,No,843160,35,NA,Firefox,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+22922,word_articulatory_real,No,843160,35,NA,Firefox,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+22922,word_articulatory_imagined,No,843160,35,NA,Firefox,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+22922,word_lexical_pure,No,843160,35,NA,Firefox,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+11122,additional-experiences_0,Imagined sounds (not of words),854284,36,NA,Firefox,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+95685,comments_word,"I would think about what to do, what I already do and what i could do",949975,37,NA,Firefox,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+95685,comments_visual,"I work from home, so i pictured my house, my animals, the plants (I have a lot) the fan sound in the background and my computer",949975,37,NA,Firefox,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+95685,comments_concept,no,949975,37,NA,Firefox,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+95685,comments_other,no,949975,37,NA,Firefox,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+2519,instruction-scenario,0,952496,38,NA,Firefox,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+NA,scenario,NA,972502,39,NA,Firefox,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+9235,lang_en,Yes,981739,40,NA,Firefox,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+9235,lang_other,No,981739,40,NA,Firefox,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+9235,visual,Yes,981739,40,NA,Firefox,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+9235,concept,No,981739,40,NA,Firefox,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+9235,eyes,Open,981739,40,NA,Firefox,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+16290,word_auditory,Yes,998032,41,NA,Firefox,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+16290,word_orthographic,No,998032,41,NA,Firefox,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+16290,word_say_real,No,998032,41,NA,Firefox,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+16290,word_articulatory_real,No,998032,41,NA,Firefox,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+16290,word_articulatory_imagined,No,998032,41,NA,Firefox,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+16290,word_lexical_pure,No,998032,41,NA,Firefox,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+8450,additional-experiences_0,Emotions,1006487,42,NA,Firefox,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+117196,comments_word,"first thought, ""don't tell anyone""",1123688,43,NA,Firefox,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+117196,comments_visual,"I imagined seeing a lotto ticket, your basic greenish colored one and me holding it. ",1123688,43,NA,Firefox,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+117196,comments_concept,no,1123688,43,NA,Firefox,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+117196,comments_other,"that adrenaline rush of, OMG! that feeling of intense overwhelming excitedness",1123688,43,NA,Firefox,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+1558,instruction-scenario,0,1125248,44,NA,Firefox,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+NA,scenario,NA,1145253,45,NA,Firefox,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+10574,lang_en,Yes,1155831,46,NA,Firefox,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+10574,lang_other,No,1155831,46,NA,Firefox,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+10574,visual,Yes,1155831,46,NA,Firefox,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+10574,concept,No,1155831,46,NA,Firefox,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+10574,eyes,Open,1155831,46,NA,Firefox,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+17790,word_auditory,Yes,1173625,47,NA,Firefox,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+17790,word_orthographic,No,1173625,47,NA,Firefox,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+17790,word_say_real,No,1173625,47,NA,Firefox,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+17790,word_articulatory_real,No,1173625,47,NA,Firefox,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+17790,word_articulatory_imagined,No,1173625,47,NA,Firefox,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+17790,word_lexical_pure,No,1173625,47,NA,Firefox,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+13830,additional-experiences_0,None of the above,1187460,48,NA,Firefox,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+71296,comments_word,"I kind of got a brain fart, not much but ""what could I do tomorrow, I could make cookies? or fix/repot my plants",1258760,49,NA,Firefox,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+71296,comments_visual,I saw cookies and plants,1258760,49,NA,Firefox,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+71296,comments_concept,no,1258760,49,NA,Firefox,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+71296,comments_other,no,1258760,49,NA,Firefox,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+26731,end-of-block,0,1285495,50,NA,Firefox,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+4129,instruction-scenario,0,1289625,51,NA,Firefox,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+NA,scenario,NA,1309629,52,NA,Firefox,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+11677,lang_en,Yes,1321308,53,NA,Firefox,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+11677,lang_other,No,1321308,53,NA,Firefox,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+11677,visual,Yes,1321308,53,NA,Firefox,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+11677,concept,No,1321308,53,NA,Firefox,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+11677,eyes,Open,1321308,53,NA,Firefox,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+12421,word_auditory,Yes,1333733,54,NA,Firefox,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+12421,word_orthographic,No,1333733,54,NA,Firefox,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+12421,word_say_real,No,1333733,54,NA,Firefox,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+12421,word_articulatory_real,No,1333733,54,NA,Firefox,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+12421,word_articulatory_imagined,No,1333733,54,NA,Firefox,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+12421,word_lexical_pure,No,1333733,54,NA,Firefox,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+10900,additional-experiences_0,Imagined smells,1344637,55,NA,Firefox,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+104156,comments_word,"right now it's sunny and partly cloudy, chilly and the air kind of has that misty leftover from before the sun came up",1448796,56,NA,Firefox,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+104156,comments_visual,"i saw the sun over the mountain, some clouds, a bit of mist going away as the sun comes up oner the hills",1448796,56,NA,Firefox,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+104156,comments_concept,no,1448796,56,NA,Firefox,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+104156,comments_other,i got slightly more cold (its cold outside),1448796,56,NA,Firefox,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+1959,instruction-scenario,0,1450759,57,NA,Firefox,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+NA,scenario,NA,1470779,58,NA,Firefox,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+13711,lang_en,Yes,1484493,59,NA,Firefox,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+13711,lang_other,No,1484493,59,NA,Firefox,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+13711,visual,Yes,1484493,59,NA,Firefox,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+13711,concept,No,1484493,59,NA,Firefox,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+13711,attention_check_screen1_dancing_cats,No,1484493,59,NA,Firefox,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+13711,eyes,Open,1484493,59,NA,Firefox,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+12371,word_auditory,Yes,1496868,60,NA,Firefox,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+12371,word_orthographic,No,1496868,60,NA,Firefox,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+12371,word_say_real,No,1496868,60,NA,Firefox,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+12371,word_articulatory_real,No,1496868,60,NA,Firefox,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+12371,word_articulatory_imagined,No,1496868,60,NA,Firefox,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+12371,word_lexical_pure,No,1496868,60,NA,Firefox,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+9399,additional-experiences_0,Imagined voice (not of words),1506271,61,NA,Firefox,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+99117,comments_word,"i see a kid on a hardwood floor, in a living room playing with colorful blocks",1605393,62,NA,Firefox,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+99117,comments_visual,"after thinking the words above, I picture that kid in a living room playing with blocks and can hear the sounds of plastic blocks hitting the hardwood floor and the kid is really short/small",1605393,62,NA,Firefox,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+99117,comments_concept,no,1605393,62,NA,Firefox,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+99117,comments_other,no,1605393,62,NA,Firefox,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+1486,instruction-scenario,0,1606881,63,NA,Firefox,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+NA,scenario,NA,1626893,64,NA,Firefox,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+9119,lang_en,Yes,1636013,65,NA,Firefox,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+9119,lang_other,No,1636013,65,NA,Firefox,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+9119,visual,Yes,1636013,65,NA,Firefox,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+9119,concept,No,1636013,65,NA,Firefox,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+9119,eyes,Open,1636013,65,NA,Firefox,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+16982,word_auditory,Yes,1652998,66,NA,Firefox,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+16982,word_orthographic,No,1652998,66,NA,Firefox,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+16982,word_say_real,No,1652998,66,NA,Firefox,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+16982,word_articulatory_real,No,1652998,66,NA,Firefox,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+16982,word_articulatory_imagined,No,1652998,66,NA,Firefox,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+16982,word_lexical_pure,No,1652998,66,NA,Firefox,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+12781,additional-experiences_0,Imagined sounds (not of words),1665782,67,NA,Firefox,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+201781,comments_word,Im standing at the sink  water on and me brushing my teeth ( i have dentures so its easier) ,1867567,68,NA,Firefox,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+201781,comments_visual,"I see my stainless steel sink (kitchen) the water on, my teeth getting brushed in my hands (dentures) and i see my 5 cats surrounding me on the floor (they get treats right after my teeth are clean and before i go to bed)",1867567,68,NA,Firefox,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+201781,comments_concept,no,1867567,68,NA,Firefox,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+201781,comments_other,I can imagine at least one of my cats head bonking my leg to hurry up,1867567,68,NA,Firefox,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+2258,instruction-scenario,0,1869828,69,NA,Firefox,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+NA,scenario,NA,1889835,70,NA,Firefox,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+9404,lang_en,Yes,1899240,71,NA,Firefox,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+9404,lang_other,No,1899240,71,NA,Firefox,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+9404,visual,Yes,1899240,71,NA,Firefox,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+9404,concept,No,1899240,71,NA,Firefox,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+9404,eyes,Open,1899240,71,NA,Firefox,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+13551,word_auditory,Yes,1912794,72,NA,Firefox,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+13551,word_orthographic,No,1912794,72,NA,Firefox,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+13551,word_say_real,No,1912794,72,NA,Firefox,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+13551,word_articulatory_real,No,1912794,72,NA,Firefox,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+13551,word_articulatory_imagined,No,1912794,72,NA,Firefox,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+13551,word_lexical_pure,No,1912794,72,NA,Firefox,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+12913,additional-experiences_0,Imagined sounds (not of words),1925709,73,NA,Firefox,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+12913,additional-experiences_1,Emotions,1925709,73,NA,Firefox,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+97076,comments_word,"wrecks, wrecks everywhere all the time",2022790,74,NA,Firefox,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+97076,comments_visual,"an unusual amount of wrecks around my area, almost cartoon-like because there are a lot of idiot drivers but they don't really pile up in intersections like i imagine",2022790,74,NA,Firefox,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+97076,comments_concept,no,2022790,74,NA,Firefox,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+97076,comments_other,"slight stress, people around here do not drive well",2022790,74,NA,Firefox,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+1457,instruction-scenario,0,2024251,75,NA,Firefox,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+NA,scenario,NA,2044266,76,NA,Firefox,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+9886,lang_en,Yes,2054154,77,NA,Firefox,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+9886,lang_other,No,2054154,77,NA,Firefox,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+9886,visual,Yes,2054154,77,NA,Firefox,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+9886,concept,No,2054154,77,NA,Firefox,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+9886,eyes,Open,2054154,77,NA,Firefox,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+13139,word_auditory,Yes,2067298,78,NA,Firefox,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+13139,word_orthographic,No,2067298,78,NA,Firefox,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+13139,word_say_real,No,2067298,78,NA,Firefox,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+13139,word_articulatory_real,No,2067298,78,NA,Firefox,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+13139,word_articulatory_imagined,No,2067298,78,NA,Firefox,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+13139,word_lexical_pure,No,2067298,78,NA,Firefox,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+12475,additional-experiences_0,Imagined sounds (not of words),2079777,79,NA,Firefox,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+12475,additional-experiences_1,Imagined voice (not of words),2079777,79,NA,Firefox,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+12475,additional-experiences_2,Imagined smells,2079777,79,NA,Firefox,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+138605,comments_word,"sand, ocean, beach towels and umbrellas, people playing on the beach and swimming",2218387,80,NA,Firefox,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+138605,comments_visual,"as I thought these words, i imagined them too, lots of light tan sand next to the dark blue ocean, people walking around, people swimming/ playing in the water, on the beach making sand castles and backgoround noise like kids screaming, people talking, laughing, birds, waves",2218387,80,NA,Firefox,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+138605,comments_concept,no,2218387,80,NA,Firefox,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+138605,comments_other,i can smell that beach,2218387,80,NA,Firefox,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+4287,end-of-block,0,2222677,81,NA,Firefox,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+5291,instruction-scenario,0,2227971,82,NA,Firefox,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+NA,scenario,NA,2247980,83,NA,Firefox,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+8910,lang_en,Yes,2256892,84,NA,Firefox,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+8910,lang_other,No,2256892,84,NA,Firefox,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+8910,visual,Yes,2256892,84,NA,Firefox,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+8910,concept,No,2256892,84,NA,Firefox,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+8910,eyes,Open,2256892,84,NA,Firefox,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+12871,word_auditory,Yes,2269765,85,NA,Firefox,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+12871,word_orthographic,No,2269765,85,NA,Firefox,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+12871,word_say_real,No,2269765,85,NA,Firefox,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+12871,word_articulatory_real,No,2269765,85,NA,Firefox,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+12871,word_articulatory_imagined,No,2269765,85,NA,Firefox,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+12871,word_lexical_pure,No,2269765,85,NA,Firefox,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+6621,additional-experiences_0,Emotions,2276389,86,NA,Firefox,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+91107,comments_word,"it's really gotten expensive over the last few years, prices going up everywhere",2367500,87,NA,Firefox,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+91107,comments_visual,"I pictured my husband and I talking about how prices have gon up, we're standing in out dining room/kitchen talking",2367500,87,NA,Firefox,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+91107,comments_concept,no,2367500,87,NA,Firefox,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+91107,comments_other,no,2367500,87,NA,Firefox,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+1759,instruction-scenario,0,2369262,88,NA,Firefox,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+NA,scenario,NA,2389266,89,NA,Firefox,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+8576,lang_en,Yes,2397845,90,NA,Firefox,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+8576,lang_other,No,2397845,90,NA,Firefox,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+8576,visual,Yes,2397845,90,NA,Firefox,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+8576,concept,No,2397845,90,NA,Firefox,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+8576,eyes,Open,2397845,90,NA,Firefox,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+17602,word_auditory,Yes,2415450,91,NA,Firefox,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+17602,word_orthographic,No,2415450,91,NA,Firefox,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+17602,word_say_real,No,2415450,91,NA,Firefox,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+17602,word_articulatory_real,No,2415450,91,NA,Firefox,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+17602,word_articulatory_imagined,No,2415450,91,NA,Firefox,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+17602,attention_check_screen2_mobile_tablet,No,2415450,91,NA,Firefox,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+17602,word_lexical_pure,No,2415450,91,NA,Firefox,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+10043,additional-experiences_0,Imagined smells,2425497,92,NA,Firefox,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+10043,additional-experiences_1,Imagined tastes,2425497,92,NA,Firefox,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+143409,comments_word,"first thought ""ooh, that place down the street"" and the one in richland",2568911,93,NA,Firefox,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+143409,comments_visual,"I saw the place down the street, as i would be standing outside of the building n the parking lot, it's one of those small % businesses) strip malls, and that other place i see the neighboorhood it's in, the busy street next to it and the building itself, old but good",2568911,93,NA,Firefox,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+143409,comments_concept,no,2568911,93,NA,Firefox,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+143409,comments_other,i kind of feel hungry now,2568911,93,NA,Firefox,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+2177,instruction-scenario,0,2571091,94,NA,Firefox,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+NA,scenario,NA,2591098,95,NA,Firefox,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+9483,lang_en,Yes,2600583,96,NA,Firefox,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+9483,lang_other,No,2600583,96,NA,Firefox,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+9483,visual,Yes,2600583,96,NA,Firefox,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+9483,concept,No,2600583,96,NA,Firefox,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+9483,eyes,Open,2600583,96,NA,Firefox,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+12152,word_auditory,Yes,2612738,97,NA,Firefox,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+12152,word_orthographic,No,2612738,97,NA,Firefox,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+12152,word_say_real,No,2612738,97,NA,Firefox,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+12152,word_articulatory_real,No,2612738,97,NA,Firefox,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+12152,word_articulatory_imagined,No,2612738,97,NA,Firefox,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+12152,word_lexical_pure,No,2612738,97,NA,Firefox,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+17224,additional-experiences_0,Imagined sounds (not of words),2629964,98,NA,Firefox,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+17224,additional-experiences_1,Emotions,2629964,98,NA,Firefox,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+166190,comments_word,"hhhmmm, bars, golfing, excercising, walking, visiting family /friends and gardening",2796158,99,NA,Firefox,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+166190,comments_visual,"I saw people laughing in a dim, but cheerful a bar, and people golfing in the sun, people sitting around a living room talking to each other and laughing and joking, people wearing workout clothes walking, jogging and lifting weights ",2796158,99,NA,Firefox,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+166190,comments_concept,no,2796158,99,NA,Firefox,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+166190,comments_other,no,2796158,99,NA,Firefox,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+2182,instruction-scenario,0,2798343,100,NA,Firefox,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+NA,scenario,NA,2818346,101,NA,Firefox,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+11093,lang_en,Yes,2829442,102,NA,Firefox,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+11093,lang_other,No,2829442,102,NA,Firefox,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+11093,visual,Yes,2829442,102,NA,Firefox,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+11093,concept,No,2829442,102,NA,Firefox,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+11093,eyes,Open,2829442,102,NA,Firefox,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+11929,word_auditory,Yes,2841376,103,NA,Firefox,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+11929,word_orthographic,No,2841376,103,NA,Firefox,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+11929,word_say_real,No,2841376,103,NA,Firefox,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+11929,word_articulatory_real,No,2841376,103,NA,Firefox,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+11929,word_articulatory_imagined,No,2841376,103,NA,Firefox,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+11929,word_lexical_pure,No,2841376,103,NA,Firefox,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+11081,additional-experiences_0,None of the above,2852461,104,NA,Firefox,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+83935,comments_word,"I kept repeating ""useful skills in life"" and I could use my hands",2936401,105,NA,Firefox,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+83935,comments_visual,"I saw my hands moving around, like solving a puzzle and making a craft, and me holding my hands together like im thinking",2936401,105,NA,Firefox,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+83935,comments_concept,no,2936401,105,NA,Firefox,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+83935,comments_other,no,2936401,105,NA,Firefox,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+1888,instruction-scenario,0,2938291,106,NA,Firefox,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+NA,scenario,NA,2958292,107,NA,Firefox,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+9769,lang_en,Yes,2968064,108,NA,Firefox,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+9769,lang_other,No,2968064,108,NA,Firefox,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+9769,visual,Yes,2968064,108,NA,Firefox,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+9769,concept,No,2968064,108,NA,Firefox,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+9769,eyes,Open,2968064,108,NA,Firefox,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+12011,word_auditory,Yes,2980078,109,NA,Firefox,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+12011,word_orthographic,No,2980078,109,NA,Firefox,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+12011,word_say_real,No,2980078,109,NA,Firefox,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+12011,word_articulatory_real,No,2980078,109,NA,Firefox,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+12011,word_articulatory_imagined,No,2980078,109,NA,Firefox,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+12011,word_lexical_pure,No,2980078,109,NA,Firefox,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+15161,additional-experiences_0,Imagined sounds (not of words),2995241,110,NA,Firefox,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+155056,comments_word,"it has brought a lot of people together, more sharing, more information, more crazieness",3150302,111,NA,Firefox,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+155056,comments_visual,"I imagined a dark cyber like large city with ""technology lines"" flowing across the sky, like you would see in movies. Lots of neon signs, colorful arches of light scattered along the tops of buildings, similar to the Tron movies, in a way",3150302,111,NA,Firefox,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+155056,comments_concept,no,3150302,111,NA,Firefox,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+155056,comments_other,no,3150302,111,NA,Firefox,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+81706,end-of-block,0,3232013,112,NA,Firefox,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+1960,instruction-scenario,0,3233975,113,NA,Firefox,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+NA,scenario,NA,3253979,114,NA,Firefox,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+8577,lang_en,Yes,3262558,115,NA,Firefox,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+8577,lang_other,No,3262558,115,NA,Firefox,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+8577,visual,Yes,3262558,115,NA,Firefox,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+8577,concept,No,3262558,115,NA,Firefox,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+8577,eyes,Open,3262558,115,NA,Firefox,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+13451,word_auditory,Yes,3276013,116,NA,Firefox,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+13451,word_orthographic,No,3276013,116,NA,Firefox,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+13451,word_say_real,No,3276013,116,NA,Firefox,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+13451,word_articulatory_real,No,3276013,116,NA,Firefox,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+13451,word_articulatory_imagined,No,3276013,116,NA,Firefox,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+13451,word_lexical_pure,No,3276013,116,NA,Firefox,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+9890,additional-experiences_0,None of the above,3285907,117,NA,Firefox,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+170046,comments_word,"the body needs nutrients, like an informational video",3455956,118,NA,Firefox,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+170046,comments_visual,"i pictured a cartoon like visual of a human insides, with the ""nutrients"" moving around the blood stream, colored body parts, blood cells, vitamines, the digestive system, zooming in on specific parts of the body, while moving around showing different parts",3455956,118,NA,Firefox,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+170046,comments_concept,no,3455956,118,NA,Firefox,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+170046,comments_other,no,3455956,118,NA,Firefox,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+4058,instruction-scenario,0,3460017,119,NA,Firefox,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+NA,scenario,NA,3480020,120,NA,Firefox,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+13899,lang_en,Yes,3493921,121,NA,Firefox,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+13899,lang_other,No,3493921,121,NA,Firefox,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+13899,visual,Yes,3493921,121,NA,Firefox,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+13899,concept,No,3493921,121,NA,Firefox,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+13899,attention_check_screen1_colorful_unicorns,No,3493921,121,NA,Firefox,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+13899,eyes,Open,3493921,121,NA,Firefox,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+13290,word_auditory,Yes,3507215,122,NA,Firefox,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+13290,word_orthographic,No,3507215,122,NA,Firefox,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+13290,word_say_real,No,3507215,122,NA,Firefox,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+13290,word_articulatory_real,No,3507215,122,NA,Firefox,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+13290,word_articulatory_imagined,No,3507215,122,NA,Firefox,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+13290,word_lexical_pure,No,3507215,122,NA,Firefox,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+7803,additional-experiences_0,Imagined sounds (not of words),3515019,123,NA,Firefox,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+175314,comments_word,"my best friend used to live in my neighborhood and I hear her talk crap about the area, the weirdo that lived next to her house",3690339,124,NA,Firefox,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+175314,comments_visual,"i see my neighborhood, hear my friend talking about the price increases here, but no improvements on the roads or annoying dogs that bark or kids that scream bloody murder (thats how they sound here) people talking about the neighborhood, but not really ""hearing"" the words, just jumbled talking/ background noise murmur",3690339,124,NA,Firefox,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+175314,comments_concept,no,3690339,124,NA,Firefox,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+175314,comments_other,no,3690339,124,NA,Firefox,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+4068,instruction-scenario,0,3694409,125,NA,Firefox,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+NA,scenario,NA,3714420,126,NA,Firefox,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+9781,lang_en,Yes,3724201,127,NA,Firefox,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+9781,lang_other,No,3724201,127,NA,Firefox,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+9781,visual,Yes,3724201,127,NA,Firefox,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+9781,concept,No,3724201,127,NA,Firefox,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+9781,eyes,Open,3724201,127,NA,Firefox,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+13961,word_auditory,Yes,3738165,128,NA,Firefox,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+13961,word_orthographic,No,3738165,128,NA,Firefox,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+13961,word_say_real,No,3738165,128,NA,Firefox,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+13961,word_articulatory_real,Yes,3738165,128,NA,Firefox,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+13961,word_articulatory_imagined,No,3738165,128,NA,Firefox,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+13961,word_lexical_pure,No,3738165,128,NA,Firefox,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+7981,additional-experiences_0,Imagined sounds (not of words),3746150,129,NA,Firefox,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+90195,comments_word,"hmm, we gotta take this, we don't want to forget that, ",3836350,130,NA,Firefox,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+90195,comments_visual,"i see people talking about grabbing items, and what to bring, and what to do, they are standing in a room (looks like a bedroom) discussing what to bring and what not to forget",3836350,130,NA,Firefox,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+90195,comments_concept,no,3836350,130,NA,Firefox,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+90195,comments_other,no,3836350,130,NA,Firefox,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+2089,instruction-scenario,0,3838441,131,NA,Firefox,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+NA,scenario,NA,3858458,132,NA,Firefox,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+9363,lang_en,Yes,3867824,133,NA,Firefox,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+9363,lang_other,No,3867824,133,NA,Firefox,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+9363,visual,Yes,3867824,133,NA,Firefox,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+9363,concept,No,3867824,133,NA,Firefox,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+9363,eyes,Open,3867824,133,NA,Firefox,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+10479,word_auditory,Yes,3878308,134,NA,Firefox,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+10479,word_orthographic,No,3878308,134,NA,Firefox,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+10479,word_say_real,No,3878308,134,NA,Firefox,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+10479,word_articulatory_real,No,3878308,134,NA,Firefox,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+10479,word_articulatory_imagined,No,3878308,134,NA,Firefox,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+10479,word_lexical_pure,No,3878308,134,NA,Firefox,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+8313,additional-experiences_0,Imagined sounds (not of words),3886624,135,NA,Firefox,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+8313,additional-experiences_1,Imagined voice (not of words),3886624,135,NA,Firefox,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+151634,comments_word,"what people do with their mornings, a slight background noise of lots of people talking, but quietly",4038263,136,NA,Firefox,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+151634,comments_visual,"i imagined 2 women sitting in a booth at a cafe, the sun bringing in yellow light of morning light, talking to each other, some dishes clanking in the back/ kitchen, other people talking , but mostly chatter without understanding words",4038263,136,NA,Firefox,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+151634,comments_concept,no,4038263,136,NA,Firefox,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+151634,comments_other,i can smell the breakfast and coffe in the cafe,4038263,136,NA,Firefox,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+3180,instruction-scenario,0,4041446,137,NA,Firefox,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+NA,scenario,NA,4061455,138,NA,Firefox,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+11270,lang_en,Yes,4072727,139,NA,Firefox,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+11270,lang_other,No,4072727,139,NA,Firefox,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+11270,visual,Yes,4072727,139,NA,Firefox,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+11270,concept,No,4072727,139,NA,Firefox,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+11270,eyes,Open,4072727,139,NA,Firefox,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+10581,word_auditory,Yes,4083311,140,NA,Firefox,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+10581,word_orthographic,No,4083311,140,NA,Firefox,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+10581,word_say_real,No,4083311,140,NA,Firefox,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+10581,word_articulatory_real,No,4083311,140,NA,Firefox,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+10581,word_articulatory_imagined,No,4083311,140,NA,Firefox,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+10581,word_lexical_pure,No,4083311,140,NA,Firefox,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+5940,additional-experiences_0,None of the above,4089255,141,NA,Firefox,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+99906,comments_word,"i just thought ways to stay healthy, repeating a few times",4189166,142,NA,Firefox,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+99906,comments_visual,"then I pictured a man standing in a bright room, like an office or convention room, talking about how to stay healthy, giving pointers on a board/ screen",4189166,142,NA,Firefox,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+99906,comments_concept,no,4189166,142,NA,Firefox,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+99906,comments_other,no,4189166,142,NA,Firefox,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+25259,end-of-block,0,4214428,143,NA,Firefox,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+6959,instruction-scenario,0,4221389,144,NA,Firefox,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+NA,scenario,NA,4231394,145,NA,Firefox,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+11398,lang_en,Yes,4242793,146,NA,Firefox,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+11398,lang_other,No,4242793,146,NA,Firefox,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+11398,visual,Yes,4242793,146,NA,Firefox,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+11398,concept,No,4242793,146,NA,Firefox,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+11398,eyes,Open,4242793,146,NA,Firefox,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+11341,word_auditory,Yes,4254137,147,NA,Firefox,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+11341,word_orthographic,No,4254137,147,NA,Firefox,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+11341,word_say_real,No,4254137,147,NA,Firefox,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+11341,word_articulatory_real,No,4254137,147,NA,Firefox,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+11341,word_articulatory_imagined,No,4254137,147,NA,Firefox,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+11341,word_lexical_pure,No,4254137,147,NA,Firefox,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+7381,additional-experiences_0,None of the above,4261523,148,NA,Firefox,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+81994,comments_word,"i thought english is a language, yes it is, over and over in my head",4343524,149,NA,Firefox,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+81994,comments_visual,"i just read the words (on the last page) again and looked at them, not really imagining anything else",4343524,149,NA,Firefox,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+81994,comments_concept,no,4343524,149,NA,Firefox,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+81994,comments_other,no,4343524,149,NA,Firefox,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+1898,instruction-scenario,0,4345425,150,NA,Firefox,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+NA,scenario,NA,4355434,151,NA,Firefox,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+9281,lang_en,Yes,4364717,152,NA,Firefox,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+9281,lang_other,No,4364717,152,NA,Firefox,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+9281,visual,Yes,4364717,152,NA,Firefox,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+9281,concept,No,4364717,152,NA,Firefox,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+9281,eyes,Open,4364717,152,NA,Firefox,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+14123,word_auditory,Yes,4378844,153,NA,Firefox,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+14123,word_orthographic,No,4378844,153,NA,Firefox,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+14123,word_say_real,No,4378844,153,NA,Firefox,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+14123,word_articulatory_real,No,4378844,153,NA,Firefox,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+14123,word_articulatory_imagined,No,4378844,153,NA,Firefox,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+14123,attention_check_screen2_fall_asleep,No,4378844,153,NA,Firefox,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+14123,word_lexical_pure,No,4378844,153,NA,Firefox,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+7201,additional-experiences_0,None of the above,4386048,154,NA,Firefox,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+38243,comments_word,mathmatetics is a major repeating in my head,4424296,155,NA,Firefox,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+38243,comments_visual,i saw a whiteboard with math written on it,4424296,155,NA,Firefox,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+38243,comments_concept,no,4424296,155,NA,Firefox,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+38243,comments_other,no,4424296,155,NA,Firefox,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+1878,instruction-scenario,0,4426177,156,NA,Firefox,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+NA,scenario,NA,4436191,157,NA,Firefox,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+7587,lang_en,Yes,4443778,158,NA,Firefox,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+7587,lang_other,No,4443778,158,NA,Firefox,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+7587,visual,Yes,4443778,158,NA,Firefox,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+7587,concept,No,4443778,158,NA,Firefox,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+7587,eyes,Open,4443778,158,NA,Firefox,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+12502,word_auditory,Yes,4456284,159,NA,Firefox,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+12502,word_orthographic,No,4456284,159,NA,Firefox,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+12502,word_say_real,No,4456284,159,NA,Firefox,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+12502,word_articulatory_real,No,4456284,159,NA,Firefox,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+12502,word_articulatory_imagined,No,4456284,159,NA,Firefox,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+12502,word_lexical_pure,No,4456284,159,NA,Firefox,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+3211,additional-experiences_0,None of the above,4459498,160,NA,Firefox,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+50965,comments_word,democracy is a system repeated in my mind,4510466,161,NA,Firefox,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+50965,comments_visual,"a few ""clips"" of people gathering and protesting, but back to repeating the words",4510466,161,NA,Firefox,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+50965,comments_concept,no,4510466,161,NA,Firefox,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+50965,comments_other,no,4510466,161,NA,Firefox,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+2129,instruction-scenario,0,4512599,162,NA,Firefox,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+NA,scenario,NA,4522604,163,NA,Firefox,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+7684,lang_en,Yes,4530291,164,NA,Firefox,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+7684,lang_other,No,4530291,164,NA,Firefox,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+7684,visual,Yes,4530291,164,NA,Firefox,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+7684,concept,No,4530291,164,NA,Firefox,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+7684,eyes,Open,4530291,164,NA,Firefox,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+13613,word_auditory,Yes,4543906,165,NA,Firefox,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+13613,word_orthographic,No,4543906,165,NA,Firefox,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+13613,word_say_real,No,4543906,165,NA,Firefox,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+13613,word_articulatory_real,No,4543906,165,NA,Firefox,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+13613,word_articulatory_imagined,No,4543906,165,NA,Firefox,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+13613,word_lexical_pure,No,4543906,165,NA,Firefox,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+4302,additional-experiences_0,None of the above,4548209,166,NA,Firefox,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+101698,comments_word,"i kept thinking growth is a process in my head, and sounds like one of those overpriced self help classes",4649911,167,NA,Firefox,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+101698,comments_visual,"just imagined some phony looking car saleman type of guy talking about self help to a group of people, but i cant see the groups faces",4649911,167,NA,Firefox,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+101698,comments_concept,no,4649911,167,NA,Firefox,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+101698,comments_other,no,4649911,167,NA,Firefox,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+5471,instruction-scenario,0,4655385,168,NA,Firefox,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+NA,scenario,NA,4665391,169,NA,Firefox,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+7666,lang_en,Yes,4673060,170,NA,Firefox,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+7666,lang_other,No,4673060,170,NA,Firefox,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+7666,visual,Yes,4673060,170,NA,Firefox,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+7666,concept,No,4673060,170,NA,Firefox,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+7666,eyes,Open,4673060,170,NA,Firefox,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+11510,word_auditory,Yes,4684574,171,NA,Firefox,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+11510,word_orthographic,No,4684574,171,NA,Firefox,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+11510,word_say_real,No,4684574,171,NA,Firefox,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+11510,word_articulatory_real,No,4684574,171,NA,Firefox,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+11510,word_articulatory_imagined,No,4684574,171,NA,Firefox,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+11510,word_lexical_pure,No,4684574,171,NA,Firefox,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+5700,additional-experiences_0,Imagined sounds (not of words),4690279,172,NA,Firefox,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+97666,comments_word,i thought time is a dimension in my head,4787949,173,NA,Firefox,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+97666,comments_visual,"while seeing a black background with a light blue grid and space-like images of lines and wormholes moving through time, like something you would see in a documentary or si-fi movie",4787949,173,NA,Firefox,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+97666,comments_concept,no,4787949,173,NA,Firefox,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+97666,comments_other,no,4787949,173,NA,Firefox,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+8278,end-of-block,0,4796230,174,NA,Firefox,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+2620,instruction-scenario,0,4798852,175,NA,Firefox,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+NA,scenario,NA,4808855,176,NA,Firefox,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+10649,lang_en,Yes,4819505,177,NA,Firefox,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+10649,lang_other,No,4819505,177,NA,Firefox,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+10649,visual,Yes,4819505,177,NA,Firefox,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+10649,concept,No,4819505,177,NA,Firefox,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+10649,eyes,Open,4819505,177,NA,Firefox,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+10160,word_auditory,Yes,4829669,178,NA,Firefox,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+10160,word_orthographic,No,4829669,178,NA,Firefox,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+10160,word_say_real,No,4829669,178,NA,Firefox,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+10160,word_articulatory_real,No,4829669,178,NA,Firefox,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+10160,word_articulatory_imagined,No,4829669,178,NA,Firefox,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+10160,word_lexical_pure,No,4829669,178,NA,Firefox,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+2811,additional-experiences_0,None of the above,4832483,179,NA,Firefox,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+75964,comments_word,i read logic is a tool over and over,4908453,180,NA,Firefox,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+75964,comments_visual,"i just saw the words on the screen, in black and white, nothing special, still sort of thinking about the last words",4908453,180,NA,Firefox,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+75964,comments_concept,no,4908453,180,NA,Firefox,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+75964,comments_other,,4908453,180,NA,Firefox,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+1668,instruction-scenario,0,4910124,181,NA,Firefox,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+NA,scenario,NA,4920134,182,NA,Firefox,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+15662,lang_en,Yes,4935799,183,NA,Firefox,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+15662,lang_other,No,4935799,183,NA,Firefox,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+15662,visual,Yes,4935799,183,NA,Firefox,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+15662,concept,No,4935799,183,NA,Firefox,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+15662,attention_check_screen1_flying_pigs,No,4935799,183,NA,Firefox,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+15662,eyes,Open,4935799,183,NA,Firefox,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+11580,word_auditory,Yes,4947383,184,NA,Firefox,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+11580,word_orthographic,No,4947383,184,NA,Firefox,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+11580,word_say_real,No,4947383,184,NA,Firefox,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+11580,word_articulatory_real,No,4947383,184,NA,Firefox,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+11580,word_articulatory_imagined,No,4947383,184,NA,Firefox,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+11580,word_lexical_pure,No,4947383,184,NA,Firefox,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+4651,additional-experiences_0,None of the above,4952038,185,NA,Firefox,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+56493,comments_word,"gravity is a force, newton, physics",5008538,186,NA,Firefox,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+56493,comments_visual,I pictured newton and an apple falling down in a child-like book illistration,5008538,186,NA,Firefox,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+56493,comments_concept,no,5008538,186,NA,Firefox,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+56493,comments_other,no,5008538,186,NA,Firefox,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+1449,instruction-scenario,0,5009988,187,NA,Firefox,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+NA,scenario,NA,5020001,188,NA,Firefox,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+7337,lang_en,Yes,5027340,189,NA,Firefox,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+7337,lang_other,No,5027340,189,NA,Firefox,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+7337,visual,Yes,5027340,189,NA,Firefox,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+7337,concept,No,5027340,189,NA,Firefox,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+7337,eyes,Open,5027340,189,NA,Firefox,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+11582,word_auditory,Yes,5038926,190,NA,Firefox,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+11582,word_orthographic,No,5038926,190,NA,Firefox,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+11582,word_say_real,No,5038926,190,NA,Firefox,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+11582,word_articulatory_real,No,5038926,190,NA,Firefox,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+11582,word_articulatory_imagined,No,5038926,190,NA,Firefox,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+11582,word_lexical_pure,No,5038926,190,NA,Firefox,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+3249,additional-experiences_0,None of the above,5042179,191,NA,Firefox,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+65988,comments_word,"ideas are valuable, valuable, ideas, ideas valuable (it just kept repeating)",5108171,192,NA,Firefox,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+65988,comments_visual,"i pictured a cartton like blue diamond, but i know in my mind it is valuable",5108171,192,NA,Firefox,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+65988,comments_concept,no,5108171,192,NA,Firefox,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+65988,comments_other,no,5108171,192,NA,Firefox,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+1457,instruction-scenario,0,5109632,193,NA,Firefox,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+NA,scenario,NA,5119635,194,NA,Firefox,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+7697,lang_en,Yes,5127333,195,NA,Firefox,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+7697,lang_other,No,5127333,195,NA,Firefox,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+7697,visual,Yes,5127333,195,NA,Firefox,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+7697,concept,No,5127333,195,NA,Firefox,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+7697,eyes,Open,5127333,195,NA,Firefox,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+13203,word_auditory,Yes,5140539,196,NA,Firefox,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+13203,word_orthographic,No,5140539,196,NA,Firefox,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+13203,word_say_real,No,5140539,196,NA,Firefox,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+13203,word_articulatory_real,No,5140539,196,NA,Firefox,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+13203,word_articulatory_imagined,No,5140539,196,NA,Firefox,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+13203,word_lexical_pure,No,5140539,196,NA,Firefox,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+4501,additional-experiences_0,Emotions,5145043,197,NA,Firefox,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+86384,comments_word,honesty is a great quality to have,5231433,198,NA,Firefox,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+86384,comments_visual,"i pictured an older couple talking to each other, in a park, golden sunlight of sunset or sunrise, green grass kids playing, birds chirping, happy people",5231433,198,NA,Firefox,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+86384,comments_concept,no,5231433,198,NA,Firefox,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+86384,comments_other,calmness,5231433,198,NA,Firefox,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+1449,instruction-scenario,0,5232884,199,NA,Firefox,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+NA,scenario,NA,5242890,200,NA,Firefox,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+8164,lang_en,Yes,5251056,201,NA,Firefox,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+8164,lang_other,No,5251056,201,NA,Firefox,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+8164,visual,Yes,5251056,201,NA,Firefox,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+8164,concept,No,5251056,201,NA,Firefox,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+8164,eyes,Open,5251056,201,NA,Firefox,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+11071,word_auditory,Yes,5262130,202,NA,Firefox,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+11071,word_orthographic,No,5262130,202,NA,Firefox,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+11071,word_say_real,No,5262130,202,NA,Firefox,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+11071,word_articulatory_real,No,5262130,202,NA,Firefox,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+11071,word_articulatory_imagined,No,5262130,202,NA,Firefox,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+11071,word_lexical_pure,No,5262130,202,NA,Firefox,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+6945,additional-experiences_0,Imagined sounds (not of words),5269078,203,NA,Firefox,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+6945,additional-experiences_1,Emotions,5269078,203,NA,Firefox,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+94576,comments_word,"learning is a journey, yep it really is, (then i thought) oooh, my guitar",5363658,204,NA,Firefox,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+94576,comments_visual,I pictured me learning a new part of a song on my guitar and how often i play sometimes,5363658,204,NA,Firefox,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+94576,comments_concept,no,5363658,204,NA,Firefox,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+94576,comments_other,no,5363658,204,NA,Firefox,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+4899,end-of-block,0,5368560,205,NA,Firefox,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+43098,frequency_auditory,4,5411661,206,NA,Firefox,GeneralQs,,,,
+43098,frequency_orthographic,1,5411661,206,NA,Firefox,GeneralQs,,,,
+43098,frequency_articulatory_imagined,1,5411661,206,NA,Firefox,GeneralQs,,,,
+43098,frequency_articulatory_real,1,5411661,206,NA,Firefox,GeneralQs,,,,
+43098,frequency_say_real,1,5411661,206,NA,Firefox,GeneralQs,,,,
+43098,frequency_lexical_pure,0,5411661,206,NA,Firefox,GeneralQs,,,,
+43098,frequency_visual,4,5411661,206,NA,Firefox,GeneralQs,,,,
+43098,frequency_concept,0,5411661,206,NA,Firefox,GeneralQs,,,,
+6077,instruction-PsiQ,0,5417741,207,NA,Firefox,PsiQ,,,,
+18180,psiq_vision_1,10,5435924,208,NA,Firefox,PsiQ,,,,
+18180,psiq_vision_2,10,5435924,208,NA,Firefox,PsiQ,,,,
+18180,psiq_vision_3,10,5435924,208,NA,Firefox,PsiQ,,,,
+18180,psiq_vision_4,10,5435924,208,NA,Firefox,PsiQ,,,,
+18180,psiq_vision_5,10,5435924,208,NA,Firefox,PsiQ,,,,
+15061,psiq_sound_1,10,5450990,209,NA,Firefox,PsiQ,,,,
+15061,psiq_sound_2,10,5450990,209,NA,Firefox,PsiQ,,,,
+15061,psiq_sound_3,10,5450990,209,NA,Firefox,PsiQ,,,,
+15061,psiq_sound_4,10,5450990,209,NA,Firefox,PsiQ,,,,
+15061,psiq_sound_5,10,5450990,209,NA,Firefox,PsiQ,,,,
+12197,psiq_smell_1,10,5463191,210,NA,Firefox,PsiQ,,,,
+12197,psiq_smell_2,10,5463191,210,NA,Firefox,PsiQ,,,,
+12197,psiq_smell_3,10,5463191,210,NA,Firefox,PsiQ,,,,
+12197,psiq_smell_4,10,5463191,210,NA,Firefox,PsiQ,,,,
+12197,psiq_smell_5,10,5463191,210,NA,Firefox,PsiQ,,,,
+9158,psiq_taste_1,10,5472352,211,NA,Firefox,PsiQ,,,,
+9158,psiq_taste_2,10,5472352,211,NA,Firefox,PsiQ,,,,
+9158,psiq_taste_3,10,5472352,211,NA,Firefox,PsiQ,,,,
+9158,psiq_taste_4,10,5472352,211,NA,Firefox,PsiQ,,,,
+9158,psiq_taste_5,10,5472352,211,NA,Firefox,PsiQ,,,,
+9978,psiq_touch_1,10,5482334,212,NA,Firefox,PsiQ,,,,
+9978,psiq_touch_2,10,5482334,212,NA,Firefox,PsiQ,,,,
+9978,psiq_touch_3,10,5482334,212,NA,Firefox,PsiQ,,,,
+9978,psiq_touch_4,10,5482334,212,NA,Firefox,PsiQ,,,,
+9978,psiq_touch_5,10,5482334,212,NA,Firefox,PsiQ,,,,
+15289,psiq_kinesthetic_1,9,5497626,213,NA,Firefox,PsiQ,,,,
+15289,psiq_kinesthetic_2,9,5497626,213,NA,Firefox,PsiQ,,,,
+15289,psiq_kinesthetic_3,10,5497626,213,NA,Firefox,PsiQ,,,,
+15289,psiq_kinesthetic_4,10,5497626,213,NA,Firefox,PsiQ,,,,
+15289,psiq_kinesthetic_5,10,5497626,213,NA,Firefox,PsiQ,,,,
+12769,psiq_emotional_1,10,5510399,214,NA,Firefox,PsiQ,,,,
+12769,psiq_emotional_2,10,5510399,214,NA,Firefox,PsiQ,,,,
+12769,psiq_emotional_3,10,5510399,214,NA,Firefox,PsiQ,,,,
+12769,psiq_emotional_4,10,5510399,214,NA,Firefox,PsiQ,,,,
+12769,psiq_emotional_5,10,5510399,214,NA,Firefox,PsiQ,,,,

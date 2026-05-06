@@ -1,0 +1,653 @@
+rt,question,response,time_elapsed,trial_index,accuracy,browser,experiment,block,scenarioType,scenarioIndex,scenarioInstruction
+NA,NA,NA,305,NA,NA,Chrome,,,,,
+7671,prolific_id,6312bdcf64c0abf681b89dd5,7979,1,NA,Chrome,,,,,
+11724,instruction-all,0,19704,2,NA,Chrome,,,,,
+47880,instruction-infographics-1,0,67585,3,NA,Chrome,,,,,
+15206,instruction-infographics-2,0,82792,4,NA,Chrome,,,,,
+18503,instruction-post-infographics,0,199034,13,NA,Chrome,,,,,
+15765,instruction-scenario,0,214800,14,NA,Chrome,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+NA,scenario,NA,234802,15,NA,Chrome,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+25121,lang_en,Yes,259924,16,NA,Chrome,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+25121,lang_other,No,259924,16,NA,Chrome,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+25121,visual,Yes,259924,16,NA,Chrome,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+25121,concept,No,259924,16,NA,Chrome,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+25121,eyes,Open,259924,16,NA,Chrome,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+31512,word_auditory,Yes,291437,17,NA,Chrome,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+31512,word_orthographic,No,291437,17,NA,Chrome,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+31512,word_say_real,No,291437,17,NA,Chrome,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+31512,word_articulatory_real,No,291437,17,NA,Chrome,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+31512,word_articulatory_imagined,No,291437,17,NA,Chrome,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+31512,word_lexical_pure,No,291437,17,NA,Chrome,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+33467.299999999814,additional-experiences_0,Imagined sounds (not of words),324905,18,NA,Chrome,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+33467.299999999814,additional-experiences_1,Imagined bodily sensations,324905,18,NA,Chrome,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+58346,comments_word,"I felt that some of the words I was experiencing in my mind was related to things i was 'seeing' like my work desk, a window with light coming through (i would imagine the word window while seeing it, etc)",383252,19,NA,Chrome,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+58346,comments_visual,,383252,19,NA,Chrome,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+58346,comments_concept,,383252,19,NA,Chrome,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+58346,comments_other,,383252,19,NA,Chrome,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+7395,instruction-scenario,0,390648,20,NA,Chrome,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+NA,scenario,NA,410650,21,NA,Chrome,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+15647,lang_en,No,426298,22,NA,Chrome,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+15647,lang_other,No,426298,22,NA,Chrome,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+15647,visual,Yes,426298,22,NA,Chrome,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+15647,concept,No,426298,22,NA,Chrome,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+15647,eyes,"Sometimes open, sometimes closed",426298,22,NA,Chrome,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+17157,word_auditory,I did not experience words,443455,23,NA,Chrome,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+17157,word_orthographic,I did not experience words,443455,23,NA,Chrome,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+17157,word_say_real,I did not experience words,443455,23,NA,Chrome,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+17157,word_articulatory_real,I did not experience words,443455,23,NA,Chrome,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+17157,word_articulatory_imagined,I did not experience words,443455,23,NA,Chrome,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+17157,word_lexical_pure,I did not experience words,443455,23,NA,Chrome,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+28864.5,additional-experiences_0,Imagined sounds (not of words),472320,24,NA,Chrome,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+28864.5,additional-experiences_1,Imagined smells,472320,24,NA,Chrome,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+28864.5,additional-experiences_2,Emotions,472320,24,NA,Chrome,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+28864.5,additional-experiences_3,Imagined bodily sensations,472320,24,NA,Chrome,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+28864.5,additional-experiences_4,Imagined movements of your body,472320,24,NA,Chrome,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+25594,comments_word,,497915,25,NA,Chrome,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+25594,comments_visual,"My experience was mostly visual, seeing myself walking my dog in the warm weather",497915,25,NA,Chrome,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+25594,comments_concept,,497915,25,NA,Chrome,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+25594,comments_other,,497915,25,NA,Chrome,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+5229,instruction-scenario,0,503145,26,NA,Chrome,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+NA,scenario,NA,523146,27,NA,Chrome,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+22564,lang_en,Yes,545711,28,NA,Chrome,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+22564,lang_other,Yes,545711,28,NA,Chrome,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+22564,visual,Yes,545711,28,NA,Chrome,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+22564,concept,No,545711,28,NA,Chrome,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+22564,eyes,Open,545711,28,NA,Chrome,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+46810,word_auditory,Yes,592522,29,NA,Chrome,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+46810,word_orthographic,No,592522,29,NA,Chrome,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+46810,word_say_real,No,592522,29,NA,Chrome,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+46810,word_articulatory_real,No,592522,29,NA,Chrome,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+46810,word_articulatory_imagined,No,592522,29,NA,Chrome,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+46810,attention_check_screen2_follow_instructions,Yes,592522,29,NA,Chrome,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+46810,word_lexical_pure,No,592522,29,NA,Chrome,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+21794.099999999627,additional-experiences_0,Imagined sounds (not of words),614317,30,NA,Chrome,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+21794.099999999627,additional-experiences_1,Imagined smells,614317,30,NA,Chrome,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+21794.099999999627,additional-experiences_2,Imagined tastes,614317,30,NA,Chrome,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+26406,comments_word,,640724,31,NA,Chrome,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+26406,comments_visual,,640724,31,NA,Chrome,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+26406,comments_concept,,640724,31,NA,Chrome,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+26406,comments_other,,640724,31,NA,Chrome,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+15085,instruction-scenario,0,655810,32,NA,Chrome,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+NA,scenario,NA,675811,33,NA,Chrome,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+18251,lang_en,Yes,694063,34,NA,Chrome,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+18251,lang_other,No,694063,34,NA,Chrome,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+18251,visual,Yes,694063,34,NA,Chrome,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+18251,concept,No,694063,34,NA,Chrome,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+18251,eyes,"Sometimes open, sometimes closed",694063,34,NA,Chrome,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+25756,word_auditory,Yes,719820,35,NA,Chrome,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+25756,word_orthographic,No,719820,35,NA,Chrome,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+25756,word_say_real,No,719820,35,NA,Chrome,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+25756,word_articulatory_real,No,719820,35,NA,Chrome,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+25756,word_articulatory_imagined,Yes,719820,35,NA,Chrome,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+25756,word_lexical_pure,No,719820,35,NA,Chrome,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+22663.5,additional-experiences_0,Imagined bodily sensations,742484,36,NA,Chrome,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+22663.5,additional-experiences_1,Imagined movements of your body,742484,36,NA,Chrome,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+12516,comments_word,,755001,37,NA,Chrome,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+12516,comments_visual,,755001,37,NA,Chrome,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+12516,comments_concept,,755001,37,NA,Chrome,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+12516,comments_other,,755001,37,NA,Chrome,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+3521,instruction-scenario,0,758523,38,NA,Chrome,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+NA,scenario,NA,778524,39,NA,Chrome,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+19577,lang_en,Yes,798102,40,NA,Chrome,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+19577,lang_other,No,798102,40,NA,Chrome,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+19577,visual,Yes,798102,40,NA,Chrome,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+19577,concept,Yes,798102,40,NA,Chrome,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+19577,eyes,Open,798102,40,NA,Chrome,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+32946,word_auditory,Yes,831049,41,NA,Chrome,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+32946,word_orthographic,No,831049,41,NA,Chrome,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+32946,word_say_real,Yes,831049,41,NA,Chrome,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+32946,word_articulatory_real,Yes,831049,41,NA,Chrome,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+32946,word_articulatory_imagined,Yes,831049,41,NA,Chrome,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+32946,word_lexical_pure,No,831049,41,NA,Chrome,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+27869.099999999627,additional-experiences_0,Imagined voice without sounds,858919,42,NA,Chrome,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+27869.099999999627,additional-experiences_1,Emotions,858919,42,NA,Chrome,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+63892,comments_word,I had a commercial pop into my head of St Judes and kids talking about donations,922813,43,NA,Chrome,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+63892,comments_visual,"I had a few images pop into my head, notably certain logos of charitable organizations (St Judes) as well as my ideal home.",922813,43,NA,Chrome,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+63892,comments_concept,,922813,43,NA,Chrome,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+63892,comments_other,,922813,43,NA,Chrome,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+2680,instruction-scenario,0,925493,44,NA,Chrome,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+NA,scenario,NA,945495,45,NA,Chrome,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+15761,lang_en,Yes,961256,46,NA,Chrome,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+15761,lang_other,No,961256,46,NA,Chrome,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+15761,visual,Yes,961256,46,NA,Chrome,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+15761,concept,Yes,961256,46,NA,Chrome,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+15761,eyes,"Sometimes open, sometimes closed",961256,46,NA,Chrome,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+14809,word_auditory,Yes,976066,47,NA,Chrome,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+14809,word_orthographic,No,976066,47,NA,Chrome,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+14809,word_say_real,No,976066,47,NA,Chrome,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+14809,word_articulatory_real,No,976066,47,NA,Chrome,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+14809,word_articulatory_imagined,Yes,976066,47,NA,Chrome,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+14809,word_lexical_pure,No,976066,47,NA,Chrome,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+28018.199999999255,additional-experiences_0,Imagined sounds (not of words),1004085,48,NA,Chrome,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+28018.199999999255,additional-experiences_1,Imagined smells,1004085,48,NA,Chrome,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+28018.199999999255,additional-experiences_2,Imagined bodily sensations,1004085,48,NA,Chrome,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+28018.199999999255,additional-experiences_3,Imagined movements of your body,1004085,48,NA,Chrome,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+42833,comments_word,,1046919,49,NA,Chrome,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+42833,comments_visual,"I am doing some construction on my house tomorrow and I could imagine it exactly, the cutting of the wood, the smell of the dust, the heat from the sun.",1046919,49,NA,Chrome,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+42833,comments_concept,,1046919,49,NA,Chrome,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+42833,comments_other,,1046919,49,NA,Chrome,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+3456,end-of-block,0,1050376,50,NA,Chrome,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+8086,instruction-scenario,0,1058463,51,NA,Chrome,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+NA,scenario,NA,1078464,52,NA,Chrome,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+26091,lang_en,Yes,1104556,53,NA,Chrome,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+26091,lang_other,No,1104556,53,NA,Chrome,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+26091,visual,Yes,1104556,53,NA,Chrome,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+26091,concept,No,1104556,53,NA,Chrome,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+26091,eyes,Closed,1104556,53,NA,Chrome,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+15156,word_auditory,Yes,1119712,54,NA,Chrome,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+15156,word_orthographic,No,1119712,54,NA,Chrome,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+15156,word_say_real,No,1119712,54,NA,Chrome,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+15156,word_articulatory_real,No,1119712,54,NA,Chrome,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+15156,word_articulatory_imagined,No,1119712,54,NA,Chrome,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+15156,word_lexical_pure,No,1119712,54,NA,Chrome,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+20431.200000000186,additional-experiences_0,Imagined sounds (not of words),1140144,55,NA,Chrome,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+20431.200000000186,additional-experiences_1,Imagined smells,1140144,55,NA,Chrome,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+20431.200000000186,additional-experiences_2,Emotions,1140144,55,NA,Chrome,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+20431.200000000186,additional-experiences_3,Imagined bodily sensations,1140144,55,NA,Chrome,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+29513,comments_word,,1169658,56,NA,Chrome,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+29513,comments_visual,"I could see the sun in my head beaming down, and feel the warmth.",1169658,56,NA,Chrome,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+29513,comments_concept,,1169658,56,NA,Chrome,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+29513,comments_other,,1169658,56,NA,Chrome,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+3327,instruction-scenario,0,1172986,57,NA,Chrome,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+NA,scenario,NA,1192987,58,NA,Chrome,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+16600,lang_en,Yes,1209588,59,NA,Chrome,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+16600,lang_other,No,1209588,59,NA,Chrome,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+16600,visual,Yes,1209588,59,NA,Chrome,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+16600,concept,No,1209588,59,NA,Chrome,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+16600,attention_check_screen1_dancing_cats,No,1209588,59,NA,Chrome,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+16600,eyes,Open,1209588,59,NA,Chrome,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+13487,word_auditory,Yes,1223075,60,NA,Chrome,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+13487,word_orthographic,No,1223075,60,NA,Chrome,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+13487,word_say_real,Yes,1223075,60,NA,Chrome,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+13487,word_articulatory_real,Yes,1223075,60,NA,Chrome,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+13487,word_articulatory_imagined,No,1223075,60,NA,Chrome,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+13487,word_lexical_pure,No,1223075,60,NA,Chrome,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+17531.200000000186,additional-experiences_0,Imagined sounds (not of words),1240607,61,NA,Chrome,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+25050,comments_word,,1265659,62,NA,Chrome,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+25050,comments_visual,,1265659,62,NA,Chrome,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+25050,comments_concept,,1265659,62,NA,Chrome,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+25050,comments_other,"The sounds in my mind were mainly of video games, like getting a coin in mario",1265659,62,NA,Chrome,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+65792,instruction-scenario,0,1331451,63,NA,Chrome,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+NA,scenario,NA,1351456,64,NA,Chrome,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+10587,lang_en,Yes,1362044,65,NA,Chrome,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+10587,lang_other,No,1362044,65,NA,Chrome,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+10587,visual,Yes,1362044,65,NA,Chrome,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+10587,concept,No,1362044,65,NA,Chrome,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+10587,eyes,Open,1362044,65,NA,Chrome,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+27336,word_auditory,No,1389381,66,NA,Chrome,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+27336,word_orthographic,Yes,1389381,66,NA,Chrome,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+27336,word_say_real,No,1389381,66,NA,Chrome,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+27336,word_articulatory_real,No,1389381,66,NA,Chrome,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+27336,word_articulatory_imagined,No,1389381,66,NA,Chrome,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+27336,word_lexical_pure,No,1389381,66,NA,Chrome,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+18984.299999999814,additional-experiences_0,Imagined tastes,1408366,67,NA,Chrome,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+18984.299999999814,additional-experiences_1,Imagined bodily sensations,1408366,67,NA,Chrome,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+18984.299999999814,additional-experiences_2,Imagined movements of your body,1408366,67,NA,Chrome,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+25024,comments_word,,1433392,68,NA,Chrome,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+25024,comments_visual,I could see the word COLGATE on my toothpaste and the colors of the tube,1433392,68,NA,Chrome,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+25024,comments_concept,,1433392,68,NA,Chrome,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+25024,comments_other,,1433392,68,NA,Chrome,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+3541,instruction-scenario,0,1436933,69,NA,Chrome,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+NA,scenario,NA,1456949,70,NA,Chrome,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+18024,lang_en,No,1474974,71,NA,Chrome,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+18024,lang_other,No,1474974,71,NA,Chrome,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+18024,visual,Yes,1474974,71,NA,Chrome,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+18024,concept,Yes,1474974,71,NA,Chrome,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+18024,eyes,Open,1474974,71,NA,Chrome,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+13289,word_auditory,I did not experience words,1488264,72,NA,Chrome,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+13289,word_orthographic,I did not experience words,1488264,72,NA,Chrome,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+13289,word_say_real,I did not experience words,1488264,72,NA,Chrome,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+13289,word_articulatory_real,I did not experience words,1488264,72,NA,Chrome,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+13289,word_articulatory_imagined,I did not experience words,1488264,72,NA,Chrome,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+13289,word_lexical_pure,I did not experience words,1488264,72,NA,Chrome,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+17387.299999999814,additional-experiences_0,Imagined sounds (not of words),1505652,73,NA,Chrome,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+17387.299999999814,additional-experiences_1,Imagined movements of your body,1505652,73,NA,Chrome,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+14844,comments_word,,1520497,74,NA,Chrome,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+14844,comments_visual,,1520497,74,NA,Chrome,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+14844,comments_concept,,1520497,74,NA,Chrome,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+14844,comments_other,,1520497,74,NA,Chrome,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+4586,instruction-scenario,0,1525084,75,NA,Chrome,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+NA,scenario,NA,1545086,76,NA,Chrome,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+13756,lang_en,Yes,1558843,77,NA,Chrome,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+13756,lang_other,No,1558843,77,NA,Chrome,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+13756,visual,Yes,1558843,77,NA,Chrome,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+13756,concept,No,1558843,77,NA,Chrome,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+13756,eyes,Open,1558843,77,NA,Chrome,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+20552,word_auditory,Yes,1579396,78,NA,Chrome,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+20552,word_orthographic,No,1579396,78,NA,Chrome,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+20552,word_say_real,No,1579396,78,NA,Chrome,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+20552,word_articulatory_real,No,1579396,78,NA,Chrome,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+20552,word_articulatory_imagined,No,1579396,78,NA,Chrome,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+20552,word_lexical_pure,No,1579396,78,NA,Chrome,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+28233.400000000373,additional-experiences_0,Imagined sounds (not of words),1607631,79,NA,Chrome,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+28233.400000000373,additional-experiences_1,Imagined smells,1607631,79,NA,Chrome,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+28233.400000000373,additional-experiences_2,Imagined bodily sensations,1607631,79,NA,Chrome,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+9263,comments_word,,1616895,80,NA,Chrome,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+9263,comments_visual,,1616895,80,NA,Chrome,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+9263,comments_concept,,1616895,80,NA,Chrome,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+9263,comments_other,,1616895,80,NA,Chrome,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+4591,end-of-block,0,1621487,81,NA,Chrome,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+17752,instruction-scenario,0,1639239,82,NA,Chrome,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+NA,scenario,NA,1659242,83,NA,Chrome,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+13059,lang_en,Yes,1672302,84,NA,Chrome,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+13059,lang_other,No,1672302,84,NA,Chrome,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+13059,visual,Yes,1672302,84,NA,Chrome,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+13059,concept,No,1672302,84,NA,Chrome,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+13059,eyes,Open,1672302,84,NA,Chrome,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+17085,word_auditory,Yes,1689387,85,NA,Chrome,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+17085,word_orthographic,No,1689387,85,NA,Chrome,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+17085,word_say_real,No,1689387,85,NA,Chrome,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+17085,word_articulatory_real,No,1689387,85,NA,Chrome,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+17085,word_articulatory_imagined,Yes,1689387,85,NA,Chrome,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+17085,word_lexical_pure,No,1689387,85,NA,Chrome,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+16103,additional-experiences_0,Emotions,1705491,86,NA,Chrome,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+16103,additional-experiences_1,Imagined movements of your body,1705491,86,NA,Chrome,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+8619,comments_word,,1714111,87,NA,Chrome,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+8619,comments_visual,,1714111,87,NA,Chrome,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+8619,comments_concept,,1714111,87,NA,Chrome,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+8619,comments_other,,1714111,87,NA,Chrome,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+8275,instruction-scenario,0,1722387,88,NA,Chrome,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+NA,scenario,NA,1742389,89,NA,Chrome,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+9347,lang_en,Yes,1751736,90,NA,Chrome,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+9347,lang_other,No,1751736,90,NA,Chrome,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+9347,visual,Yes,1751736,90,NA,Chrome,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+9347,concept,No,1751736,90,NA,Chrome,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+9347,eyes,Open,1751736,90,NA,Chrome,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+28198,word_auditory,Yes,1779935,91,NA,Chrome,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+28198,word_orthographic,Yes,1779935,91,NA,Chrome,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+28198,word_say_real,No,1779935,91,NA,Chrome,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+28198,word_articulatory_real,No,1779935,91,NA,Chrome,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+28198,word_articulatory_imagined,Yes,1779935,91,NA,Chrome,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+28198,attention_check_screen2_mobile_tablet,No,1779935,91,NA,Chrome,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+28198,word_lexical_pure,No,1779935,91,NA,Chrome,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+18747.299999999814,additional-experiences_0,Imagined movements of your body,1798683,92,NA,Chrome,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+2821,comments_word,,1801505,93,NA,Chrome,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+2821,comments_visual,,1801505,93,NA,Chrome,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+2821,comments_concept,,1801505,93,NA,Chrome,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+2821,comments_other,,1801505,93,NA,Chrome,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+7939,instruction-scenario,0,1809445,94,NA,Chrome,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+NA,scenario,NA,1829447,95,NA,Chrome,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+23924,lang_en,Yes,1853372,96,NA,Chrome,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+23924,lang_other,No,1853372,96,NA,Chrome,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+23924,visual,Yes,1853372,96,NA,Chrome,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+23924,concept,No,1853372,96,NA,Chrome,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+23924,eyes,Open,1853372,96,NA,Chrome,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+17327,word_auditory,Yes,1870700,97,NA,Chrome,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+17327,word_orthographic,No,1870700,97,NA,Chrome,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+17327,word_say_real,Yes,1870700,97,NA,Chrome,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+17327,word_articulatory_real,Yes,1870700,97,NA,Chrome,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+17327,word_articulatory_imagined,No,1870700,97,NA,Chrome,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+17327,word_lexical_pure,No,1870700,97,NA,Chrome,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+18578,additional-experiences_0,Imagined bodily sensations,1889279,98,NA,Chrome,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+18578,additional-experiences_1,Imagined movements of your body,1889279,98,NA,Chrome,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+9347,comments_word,,1898627,99,NA,Chrome,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+9347,comments_visual,,1898627,99,NA,Chrome,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+9347,comments_concept,,1898627,99,NA,Chrome,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+9347,comments_other,,1898627,99,NA,Chrome,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+7691,instruction-scenario,0,1906319,100,NA,Chrome,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+NA,scenario,NA,1926320,101,NA,Chrome,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+15425,lang_en,Yes,1941746,102,NA,Chrome,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+15425,lang_other,No,1941746,102,NA,Chrome,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+15425,visual,Yes,1941746,102,NA,Chrome,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+15425,concept,Yes,1941746,102,NA,Chrome,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+15425,eyes,"Sometimes open, sometimes closed",1941746,102,NA,Chrome,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+31128,word_auditory,Yes,1972874,103,NA,Chrome,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+31128,word_orthographic,No,1972874,103,NA,Chrome,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+31128,word_say_real,No,1972874,103,NA,Chrome,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+31128,word_articulatory_real,No,1972874,103,NA,Chrome,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+31128,word_articulatory_imagined,Yes,1972874,103,NA,Chrome,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+31128,word_lexical_pure,No,1972874,103,NA,Chrome,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+14622,additional-experiences_0,Emotions,1987497,104,NA,Chrome,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+14622,additional-experiences_1,Imagined movements of your body,1987497,104,NA,Chrome,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+1707,comments_word,,1989205,105,NA,Chrome,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+1707,comments_visual,,1989205,105,NA,Chrome,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+1707,comments_concept,,1989205,105,NA,Chrome,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+1707,comments_other,,1989205,105,NA,Chrome,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+3758,instruction-scenario,0,1992964,106,NA,Chrome,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+NA,scenario,NA,2012965,107,NA,Chrome,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+10482,lang_en,Yes,2023448,108,NA,Chrome,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+10482,lang_other,No,2023448,108,NA,Chrome,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+10482,visual,Yes,2023448,108,NA,Chrome,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+10482,concept,Yes,2023448,108,NA,Chrome,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+10482,eyes,"Sometimes open, sometimes closed",2023448,108,NA,Chrome,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+25100,word_auditory,Yes,2048549,109,NA,Chrome,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+25100,word_orthographic,No,2048549,109,NA,Chrome,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+25100,word_say_real,No,2048549,109,NA,Chrome,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+25100,word_articulatory_real,No,2048549,109,NA,Chrome,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+25100,word_articulatory_imagined,Yes,2048549,109,NA,Chrome,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+25100,word_lexical_pure,Yes,2048549,109,NA,Chrome,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+19278.200000000186,additional-experiences_0,Emotions,2067828,110,NA,Chrome,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+19278.200000000186,additional-experiences_1,Imagined movements of your body,2067828,110,NA,Chrome,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+13013,comments_word,,2080842,111,NA,Chrome,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+13013,comments_visual,,2080842,111,NA,Chrome,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+13013,comments_concept,,2080842,111,NA,Chrome,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+13013,comments_other,,2080842,111,NA,Chrome,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+2864,end-of-block,0,2083707,112,NA,Chrome,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+6178,instruction-scenario,0,2089886,113,NA,Chrome,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+NA,scenario,NA,2109886,114,NA,Chrome,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+9218,lang_en,Yes,2119106,115,NA,Chrome,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+9218,lang_other,No,2119106,115,NA,Chrome,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+9218,visual,Yes,2119106,115,NA,Chrome,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+9218,concept,Yes,2119106,115,NA,Chrome,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+9218,eyes,"Sometimes open, sometimes closed",2119106,115,NA,Chrome,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+18808,word_auditory,Yes,2137915,116,NA,Chrome,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+18808,word_orthographic,Yes,2137915,116,NA,Chrome,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+18808,word_say_real,No,2137915,116,NA,Chrome,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+18808,word_articulatory_real,No,2137915,116,NA,Chrome,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+18808,word_articulatory_imagined,No,2137915,116,NA,Chrome,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+18808,word_lexical_pure,No,2137915,116,NA,Chrome,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+19194.700000000186,additional-experiences_0,Imagined movements of your body,2157110,117,NA,Chrome,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+13830,comments_word,,2170942,118,NA,Chrome,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+13830,comments_visual,,2170942,118,NA,Chrome,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+13830,comments_concept,,2170942,118,NA,Chrome,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+13830,comments_other,,2170942,118,NA,Chrome,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+6262,instruction-scenario,0,2177204,119,NA,Chrome,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+NA,scenario,NA,2197206,120,NA,Chrome,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+22794,lang_en,Yes,2220001,121,NA,Chrome,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+22794,lang_other,No,2220001,121,NA,Chrome,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+22794,visual,Yes,2220001,121,NA,Chrome,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+22794,concept,Yes,2220001,121,NA,Chrome,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+22794,attention_check_screen1_colorful_unicorns,No,2220001,121,NA,Chrome,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+22794,eyes,Open,2220001,121,NA,Chrome,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+13826,word_auditory,Yes,2233827,122,NA,Chrome,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+13826,word_orthographic,No,2233827,122,NA,Chrome,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+13826,word_say_real,No,2233827,122,NA,Chrome,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+13826,word_articulatory_real,No,2233827,122,NA,Chrome,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+13826,word_articulatory_imagined,No,2233827,122,NA,Chrome,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+13826,word_lexical_pure,No,2233827,122,NA,Chrome,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+23160.5,additional-experiences_0,Imagined voice (not of words),2256988,123,NA,Chrome,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+23160.5,additional-experiences_1,Real bodily movement,2256988,123,NA,Chrome,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+7053,comments_word,,2264042,124,NA,Chrome,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+7053,comments_visual,,2264042,124,NA,Chrome,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+7053,comments_concept,,2264042,124,NA,Chrome,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+7053,comments_other,,2264042,124,NA,Chrome,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+15274,instruction-scenario,0,2279317,125,NA,Chrome,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+NA,scenario,NA,2299320,126,NA,Chrome,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+9159,lang_en,Yes,2308480,127,NA,Chrome,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+9159,lang_other,No,2308480,127,NA,Chrome,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+9159,visual,Yes,2308480,127,NA,Chrome,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+9159,concept,No,2308480,127,NA,Chrome,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+9159,eyes,Closed,2308480,127,NA,Chrome,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+14248,word_auditory,Yes,2322729,128,NA,Chrome,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+14248,word_orthographic,No,2322729,128,NA,Chrome,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+14248,word_say_real,No,2322729,128,NA,Chrome,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+14248,word_articulatory_real,No,2322729,128,NA,Chrome,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+14248,word_articulatory_imagined,No,2322729,128,NA,Chrome,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+14248,word_lexical_pure,No,2322729,128,NA,Chrome,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+17046.299999999814,additional-experiences_0,Imagined sounds (not of words),2339775,129,NA,Chrome,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+17046.299999999814,additional-experiences_1,Emotions,2339775,129,NA,Chrome,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+29347,comments_word,,2369123,130,NA,Chrome,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+29347,comments_visual,I could easily visualize my parents stressing about things before I took roadtrips when I was younger,2369123,130,NA,Chrome,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+29347,comments_concept,,2369123,130,NA,Chrome,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+29347,comments_other,,2369123,130,NA,Chrome,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+7306,instruction-scenario,0,2376430,131,NA,Chrome,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+NA,scenario,NA,2396432,132,NA,Chrome,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+13662,lang_en,Yes,2410095,133,NA,Chrome,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+13662,lang_other,No,2410095,133,NA,Chrome,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+13662,visual,Yes,2410095,133,NA,Chrome,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+13662,concept,No,2410095,133,NA,Chrome,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+13662,eyes,Open,2410095,133,NA,Chrome,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+20647,word_auditory,Yes,2430743,134,NA,Chrome,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+20647,word_orthographic,No,2430743,134,NA,Chrome,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+20647,word_say_real,No,2430743,134,NA,Chrome,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+20647,word_articulatory_real,No,2430743,134,NA,Chrome,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+20647,word_articulatory_imagined,Yes,2430743,134,NA,Chrome,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+20647,word_lexical_pure,No,2430743,134,NA,Chrome,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+14627.900000000373,additional-experiences_0,Imagined smells,2445371,135,NA,Chrome,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+14627.900000000373,additional-experiences_1,Imagined tastes,2445371,135,NA,Chrome,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+14627.900000000373,additional-experiences_2,Imagined movements of your body,2445371,135,NA,Chrome,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+13403,comments_word,,2458776,136,NA,Chrome,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+13403,comments_visual,,2458776,136,NA,Chrome,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+13403,comments_concept,,2458776,136,NA,Chrome,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+13403,comments_other,,2458776,136,NA,Chrome,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+15506,instruction-scenario,0,2474282,137,NA,Chrome,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+NA,scenario,NA,2494284,138,NA,Chrome,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+17111,lang_en,Yes,2511397,139,NA,Chrome,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+17111,lang_other,No,2511397,139,NA,Chrome,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+17111,visual,Yes,2511397,139,NA,Chrome,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+17111,concept,Yes,2511397,139,NA,Chrome,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+17111,eyes,Open,2511397,139,NA,Chrome,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+57504,word_auditory,Yes,2568901,140,NA,Chrome,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+57504,word_orthographic,No,2568901,140,NA,Chrome,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+57504,word_say_real,No,2568901,140,NA,Chrome,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+57504,word_articulatory_real,No,2568901,140,NA,Chrome,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+57504,word_articulatory_imagined,No,2568901,140,NA,Chrome,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+57504,word_lexical_pure,No,2568901,140,NA,Chrome,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+9682.700000000186,additional-experiences_0,Imagined sounds (not of words),2578585,141,NA,Chrome,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+9682.700000000186,additional-experiences_1,Imagined movements of your body,2578585,141,NA,Chrome,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+4579,comments_word,,2583165,142,NA,Chrome,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+4579,comments_visual,,2583165,142,NA,Chrome,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+4579,comments_concept,,2583165,142,NA,Chrome,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+4579,comments_other,,2583165,142,NA,Chrome,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+1785,end-of-block,0,2584951,143,NA,Chrome,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+6943,instruction-scenario,0,2591894,144,NA,Chrome,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+NA,scenario,NA,2601895,145,NA,Chrome,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+15042,lang_en,Yes,2616937,146,NA,Chrome,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+15042,lang_other,No,2616937,146,NA,Chrome,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+15042,visual,Yes,2616937,146,NA,Chrome,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+15042,concept,No,2616937,146,NA,Chrome,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+15042,eyes,Closed,2616937,146,NA,Chrome,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+24244,word_auditory,Yes,2641182,147,NA,Chrome,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+24244,word_orthographic,Yes,2641182,147,NA,Chrome,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+24244,word_say_real,No,2641182,147,NA,Chrome,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+24244,word_articulatory_real,No,2641182,147,NA,Chrome,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+24244,word_articulatory_imagined,Yes,2641182,147,NA,Chrome,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+24244,word_lexical_pure,No,2641182,147,NA,Chrome,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+13516.200000000186,additional-experiences_0,Imagined movements of your body,2654699,148,NA,Chrome,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+2106,comments_word,,2656806,149,NA,Chrome,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+2106,comments_visual,,2656806,149,NA,Chrome,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+2106,comments_concept,,2656806,149,NA,Chrome,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+2106,comments_other,,2656806,149,NA,Chrome,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+5270,instruction-scenario,0,2662077,150,NA,Chrome,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+NA,scenario,NA,2672078,151,NA,Chrome,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+12084,lang_en,Yes,2684163,152,NA,Chrome,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+12084,lang_other,No,2684163,152,NA,Chrome,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+12084,visual,Yes,2684163,152,NA,Chrome,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+12084,concept,No,2684163,152,NA,Chrome,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+12084,eyes,Closed,2684163,152,NA,Chrome,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+36830,word_auditory,Yes,2720994,153,NA,Chrome,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+36830,word_orthographic,No,2720994,153,NA,Chrome,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+36830,word_say_real,No,2720994,153,NA,Chrome,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+36830,word_articulatory_real,No,2720994,153,NA,Chrome,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+36830,word_articulatory_imagined,Yes,2720994,153,NA,Chrome,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+36830,attention_check_screen2_fall_asleep,No,2720994,153,NA,Chrome,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+36830,word_lexical_pure,No,2720994,153,NA,Chrome,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+10733.899999999441,additional-experiences_0,None of the above,2731728,154,NA,Chrome,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+1988,comments_word,,2733718,155,NA,Chrome,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+1988,comments_visual,,2733718,155,NA,Chrome,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+1988,comments_concept,,2733718,155,NA,Chrome,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+1988,comments_other,,2733718,155,NA,Chrome,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+8334,instruction-scenario,0,2742053,156,NA,Chrome,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+NA,scenario,NA,2752054,157,NA,Chrome,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+16206,lang_en,Yes,2768261,158,NA,Chrome,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+16206,lang_other,No,2768261,158,NA,Chrome,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+16206,visual,Yes,2768261,158,NA,Chrome,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+16206,concept,No,2768261,158,NA,Chrome,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+16206,eyes,"Sometimes open, sometimes closed",2768261,158,NA,Chrome,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+21461,word_auditory,Yes,2789723,159,NA,Chrome,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+21461,word_orthographic,Yes,2789723,159,NA,Chrome,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+21461,word_say_real,No,2789723,159,NA,Chrome,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+21461,word_articulatory_real,No,2789723,159,NA,Chrome,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+21461,word_articulatory_imagined,Yes,2789723,159,NA,Chrome,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+21461,word_lexical_pure,No,2789723,159,NA,Chrome,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+19492.400000000373,additional-experiences_0,Imagined movements of your body,2809216,160,NA,Chrome,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+3874,comments_word,,2813091,161,NA,Chrome,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+3874,comments_visual,,2813091,161,NA,Chrome,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+3874,comments_concept,,2813091,161,NA,Chrome,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+3874,comments_other,,2813091,161,NA,Chrome,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+3688,instruction-scenario,0,2816780,162,NA,Chrome,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+NA,scenario,NA,2826780,163,NA,Chrome,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+12146,lang_en,Yes,2838927,164,NA,Chrome,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+12146,lang_other,No,2838927,164,NA,Chrome,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+12146,visual,Yes,2838927,164,NA,Chrome,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+12146,concept,No,2838927,164,NA,Chrome,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+12146,eyes,"Sometimes open, sometimes closed",2838927,164,NA,Chrome,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+16540,word_auditory,Yes,2855468,165,NA,Chrome,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+16540,word_orthographic,No,2855468,165,NA,Chrome,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+16540,word_say_real,No,2855468,165,NA,Chrome,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+16540,word_articulatory_real,No,2855468,165,NA,Chrome,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+16540,word_articulatory_imagined,Yes,2855468,165,NA,Chrome,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+16540,word_lexical_pure,No,2855468,165,NA,Chrome,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+10376.900000000373,additional-experiences_0,Imagined movements of your body,2865846,166,NA,Chrome,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+4766,comments_word,,2870613,167,NA,Chrome,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+4766,comments_visual,,2870613,167,NA,Chrome,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+4766,comments_concept,,2870613,167,NA,Chrome,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+4766,comments_other,,2870613,167,NA,Chrome,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+6410,instruction-scenario,0,2877023,168,NA,Chrome,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+NA,scenario,NA,2887025,169,NA,Chrome,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+13357,lang_en,Yes,2900382,170,NA,Chrome,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+13357,lang_other,No,2900382,170,NA,Chrome,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+13357,visual,Yes,2900382,170,NA,Chrome,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+13357,concept,Yes,2900382,170,NA,Chrome,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+13357,eyes,"Sometimes open, sometimes closed",2900382,170,NA,Chrome,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+21000,word_auditory,Yes,2921383,171,NA,Chrome,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+21000,word_orthographic,No,2921383,171,NA,Chrome,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+21000,word_say_real,No,2921383,171,NA,Chrome,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+21000,word_articulatory_real,No,2921383,171,NA,Chrome,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+21000,word_articulatory_imagined,Yes,2921383,171,NA,Chrome,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+21000,word_lexical_pure,No,2921383,171,NA,Chrome,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+6879.0999999996275,additional-experiences_0,Emotions,2928263,172,NA,Chrome,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+6879.0999999996275,additional-experiences_1,Imagined movements of your body,2928263,172,NA,Chrome,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+32838,comments_word,,2961102,173,NA,Chrome,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+32838,comments_visual,When looking up (it's how I visualize my best) I could almost see Albert Einstein exactly as he was,2961102,173,NA,Chrome,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+32838,comments_concept,,2961102,173,NA,Chrome,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+32838,comments_other,,2961102,173,NA,Chrome,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+2676,end-of-block,0,2963778,174,NA,Chrome,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+6223,instruction-scenario,0,2970002,175,NA,Chrome,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+NA,scenario,NA,2980003,176,NA,Chrome,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+11198,lang_en,Yes,2991202,177,NA,Chrome,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+11198,lang_other,No,2991202,177,NA,Chrome,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+11198,visual,No,2991202,177,NA,Chrome,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+11198,concept,Yes,2991202,177,NA,Chrome,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+11198,eyes,Open,2991202,177,NA,Chrome,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+14450,word_auditory,Yes,3005653,178,NA,Chrome,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+14450,word_orthographic,Yes,3005653,178,NA,Chrome,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+14450,word_say_real,No,3005653,178,NA,Chrome,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+14450,word_articulatory_real,No,3005653,178,NA,Chrome,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+14450,word_articulatory_imagined,No,3005653,178,NA,Chrome,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+14450,word_lexical_pure,No,3005653,178,NA,Chrome,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+12847.099999999627,additional-experiences_0,None of the above,3018500,179,NA,Chrome,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+7990,comments_word,,3026492,180,NA,Chrome,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+7990,comments_visual,,3026492,180,NA,Chrome,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+7990,comments_concept,,3026492,180,NA,Chrome,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+7990,comments_other,,3026492,180,NA,Chrome,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+4441,instruction-scenario,0,3030933,181,NA,Chrome,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+NA,scenario,NA,3040935,182,NA,Chrome,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+17311,lang_en,Yes,3058246,183,NA,Chrome,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+17311,lang_other,No,3058246,183,NA,Chrome,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+17311,visual,Yes,3058246,183,NA,Chrome,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+17311,concept,Yes,3058246,183,NA,Chrome,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+17311,attention_check_screen1_flying_pigs,No,3058246,183,NA,Chrome,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+17311,eyes,Open,3058246,183,NA,Chrome,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+12920,word_auditory,Yes,3071167,184,NA,Chrome,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+12920,word_orthographic,Yes,3071167,184,NA,Chrome,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+12920,word_say_real,No,3071167,184,NA,Chrome,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+12920,word_articulatory_real,No,3071167,184,NA,Chrome,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+12920,word_articulatory_imagined,Yes,3071167,184,NA,Chrome,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+12920,word_lexical_pure,No,3071167,184,NA,Chrome,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+16948,additional-experiences_0,Imagined sounds (not of words),3088116,185,NA,Chrome,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+16948,additional-experiences_1,Imagined bodily sensations,3088116,185,NA,Chrome,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+16948,additional-experiences_2,Imagined movements of your body,3088116,185,NA,Chrome,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+23074,comments_word,,3111191,186,NA,Chrome,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+23074,comments_visual,,3111191,186,NA,Chrome,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+23074,comments_concept,,3111191,186,NA,Chrome,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+23074,comments_other,"My thoughts mainly went to thinking about how gravity works, feeling the pull of gravity on my body, etc.",3111191,186,NA,Chrome,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+3518,instruction-scenario,0,3114710,187,NA,Chrome,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+NA,scenario,NA,3124711,188,NA,Chrome,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+13121,lang_en,Yes,3137832,189,NA,Chrome,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+13121,lang_other,No,3137832,189,NA,Chrome,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+13121,visual,No,3137832,189,NA,Chrome,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+13121,concept,Yes,3137832,189,NA,Chrome,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+13121,eyes,Open,3137832,189,NA,Chrome,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+17904,word_auditory,Yes,3155737,190,NA,Chrome,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+17904,word_orthographic,Yes,3155737,190,NA,Chrome,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+17904,word_say_real,No,3155737,190,NA,Chrome,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+17904,word_articulatory_real,No,3155737,190,NA,Chrome,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+17904,word_articulatory_imagined,Yes,3155737,190,NA,Chrome,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+17904,word_lexical_pure,No,3155737,190,NA,Chrome,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+10641.699999999255,additional-experiences_0,None of the above,3166379,191,NA,Chrome,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+4851,comments_word,,3171231,192,NA,Chrome,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+4851,comments_visual,,3171231,192,NA,Chrome,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+4851,comments_concept,,3171231,192,NA,Chrome,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+4851,comments_other,,3171231,192,NA,Chrome,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+5815,instruction-scenario,0,3177047,193,NA,Chrome,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+NA,scenario,NA,3187048,194,NA,Chrome,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+10657,lang_en,Yes,3197706,195,NA,Chrome,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+10657,lang_other,No,3197706,195,NA,Chrome,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+10657,visual,No,3197706,195,NA,Chrome,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+10657,concept,No,3197706,195,NA,Chrome,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+10657,eyes,Open,3197706,195,NA,Chrome,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+12413,word_auditory,Yes,3210119,196,NA,Chrome,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+12413,word_orthographic,No,3210119,196,NA,Chrome,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+12413,word_say_real,No,3210119,196,NA,Chrome,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+12413,word_articulatory_real,No,3210119,196,NA,Chrome,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+12413,word_articulatory_imagined,No,3210119,196,NA,Chrome,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+12413,word_lexical_pure,No,3210119,196,NA,Chrome,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+7637.89999999851,additional-experiences_0,None of the above,3217758,197,NA,Chrome,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+32414,comments_word,,3250173,198,NA,Chrome,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+32414,comments_visual,I couldn't visualize much with this one,3250173,198,NA,Chrome,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+32414,comments_concept,,3250173,198,NA,Chrome,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+32414,comments_other,,3250173,198,NA,Chrome,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+3251,instruction-scenario,0,3253425,199,NA,Chrome,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+NA,scenario,NA,3263425,200,NA,Chrome,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+12953,lang_en,Yes,3276379,201,NA,Chrome,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+12953,lang_other,No,3276379,201,NA,Chrome,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+12953,visual,No,3276379,201,NA,Chrome,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+12953,concept,Yes,3276379,201,NA,Chrome,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+12953,eyes,Open,3276379,201,NA,Chrome,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+16424,word_auditory,Yes,3292804,202,NA,Chrome,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+16424,word_orthographic,No,3292804,202,NA,Chrome,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+16424,word_say_real,No,3292804,202,NA,Chrome,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+16424,word_articulatory_real,No,3292804,202,NA,Chrome,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+16424,word_articulatory_imagined,No,3292804,202,NA,Chrome,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+16424,word_lexical_pure,No,3292804,202,NA,Chrome,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+7824.4000000003725,additional-experiences_0,None of the above,3300629,203,NA,Chrome,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+4472,comments_word,,3305103,204,NA,Chrome,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+4472,comments_visual,,3305103,204,NA,Chrome,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+4472,comments_concept,,3305103,204,NA,Chrome,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+4472,comments_other,,3305103,204,NA,Chrome,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+2873,end-of-block,0,3307976,205,NA,Chrome,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+33313,frequency_auditory,3,3341291,206,NA,Chrome,GeneralQs,,,,
+33313,frequency_orthographic,2,3341291,206,NA,Chrome,GeneralQs,,,,
+33313,frequency_articulatory_imagined,3,3341291,206,NA,Chrome,GeneralQs,,,,
+33313,frequency_articulatory_real,1,3341291,206,NA,Chrome,GeneralQs,,,,
+33313,frequency_say_real,1,3341291,206,NA,Chrome,GeneralQs,,,,
+33313,frequency_lexical_pure,1,3341291,206,NA,Chrome,GeneralQs,,,,
+33313,frequency_visual,3,3341291,206,NA,Chrome,GeneralQs,,,,
+33313,frequency_concept,1,3341291,206,NA,Chrome,GeneralQs,,,,
+7378,instruction-PsiQ,0,3348669,207,NA,Chrome,PsiQ,,,,
+32177,psiq_vision_1,9,3380848,208,NA,Chrome,PsiQ,,,,
+32177,psiq_vision_2,8,3380848,208,NA,Chrome,PsiQ,,,,
+32177,psiq_vision_3,10,3380848,208,NA,Chrome,PsiQ,,,,
+32177,psiq_vision_4,10,3380848,208,NA,Chrome,PsiQ,,,,
+32177,psiq_vision_5,8,3380848,208,NA,Chrome,PsiQ,,,,
+31576,psiq_sound_1,10,3412425,209,NA,Chrome,PsiQ,,,,
+31576,psiq_sound_2,8,3412425,209,NA,Chrome,PsiQ,,,,
+31576,psiq_sound_3,8,3412425,209,NA,Chrome,PsiQ,,,,
+31576,psiq_sound_4,10,3412425,209,NA,Chrome,PsiQ,,,,
+31576,psiq_sound_5,5,3412425,209,NA,Chrome,PsiQ,,,,
+25280,psiq_smell_1,4,3437707,210,NA,Chrome,PsiQ,,,,
+25280,psiq_smell_2,6,3437707,210,NA,Chrome,PsiQ,,,,
+25280,psiq_smell_3,8,3437707,210,NA,Chrome,PsiQ,,,,
+25280,psiq_smell_4,8,3437707,210,NA,Chrome,PsiQ,,,,
+25280,psiq_smell_5,7,3437707,210,NA,Chrome,PsiQ,,,,
+27369,psiq_taste_1,9,3465077,211,NA,Chrome,PsiQ,,,,
+27369,psiq_taste_2,10,3465077,211,NA,Chrome,PsiQ,,,,
+27369,psiq_taste_3,8,3465077,211,NA,Chrome,PsiQ,,,,
+27369,psiq_taste_4,7,3465077,211,NA,Chrome,PsiQ,,,,
+27369,psiq_taste_5,9,3465077,211,NA,Chrome,PsiQ,,,,
+22635,psiq_touch_1,7,3487713,212,NA,Chrome,PsiQ,,,,
+22635,psiq_touch_2,9,3487713,212,NA,Chrome,PsiQ,,,,
+22635,psiq_touch_3,10,3487713,212,NA,Chrome,PsiQ,,,,
+22635,psiq_touch_4,7,3487713,212,NA,Chrome,PsiQ,,,,
+22635,psiq_touch_5,9,3487713,212,NA,Chrome,PsiQ,,,,
+21257,psiq_kinesthetic_1,8,3508972,213,NA,Chrome,PsiQ,,,,
+21257,psiq_kinesthetic_2,10,3508972,213,NA,Chrome,PsiQ,,,,
+21257,psiq_kinesthetic_3,4,3508972,213,NA,Chrome,PsiQ,,,,
+21257,psiq_kinesthetic_4,8,3508972,213,NA,Chrome,PsiQ,,,,
+21257,psiq_kinesthetic_5,9,3508972,213,NA,Chrome,PsiQ,,,,
+28878,psiq_emotional_1,4,3537851,214,NA,Chrome,PsiQ,,,,
+28878,psiq_emotional_2,6,3537851,214,NA,Chrome,PsiQ,,,,
+28878,psiq_emotional_3,8,3537851,214,NA,Chrome,PsiQ,,,,
+28878,psiq_emotional_4,5,3537851,214,NA,Chrome,PsiQ,,,,
+28878,psiq_emotional_5,8,3537851,214,NA,Chrome,PsiQ,,,,

@@ -1,0 +1,667 @@
+rt,question,response,time_elapsed,trial_index,accuracy,browser,experiment,block,scenarioType,scenarioIndex,scenarioInstruction
+NA,NA,NA,2480,NA,NA,Edge,,,,,
+6167,prolific_id,662aa1095c1c5061a0121a13,8652,1,NA,Edge,,,,,
+5863,instruction-all,0,14518,2,NA,Edge,,,,,
+9777,instruction-infographics-1,0,24296,3,NA,Edge,,,,,
+2428,instruction-infographics-2,0,26725,4,NA,Edge,,,,,
+5920,instruction-post-infographics,0,87893,13,NA,Edge,,,,,
+3021,instruction-scenario,0,90915,14,NA,Edge,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+NA,scenario,NA,110919,15,NA,Edge,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+22180,lang_en,Yes,133110,16,NA,Edge,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+22180,lang_other,Yes,133110,16,NA,Edge,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+22180,visual,Yes,133110,16,NA,Edge,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+22180,concept,Yes,133110,16,NA,Edge,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+22180,eyes,Open,133110,16,NA,Edge,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+21125,word_auditory,No,154237,17,NA,Edge,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+21125,word_orthographic,Yes,154237,17,NA,Edge,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+21125,word_say_real,Yes,154237,17,NA,Edge,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+21125,word_articulatory_real,Yes,154237,17,NA,Edge,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+21125,word_articulatory_imagined,Yes,154237,17,NA,Edge,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+21125,word_lexical_pure,No,154237,17,NA,Edge,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+13681.79999999702,additional-experiences_0,Imagined voice (not of words),167922,18,NA,Edge,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+13681.79999999702,additional-experiences_1,Emotions,167922,18,NA,Edge,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+13681.79999999702,additional-experiences_2,Real bodily sensations,167922,18,NA,Edge,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+23266,comments_word,very casual,191191,19,NA,Edge,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+23266,comments_visual,vivid,191191,19,NA,Edge,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+23266,comments_concept,Yes,191191,19,NA,Edge,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+23266,comments_other,normal,191191,19,NA,Edge,Main,spontaneous_reflexive,general,1,Think about <br><strong>what your ideal work environment would be like</strong>
+3441,instruction-scenario,0,194633,20,NA,Edge,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+NA,scenario,NA,214635,21,NA,Edge,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+16519,lang_en,Yes,231156,22,NA,Edge,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+16519,lang_other,Yes,231156,22,NA,Edge,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+16519,visual,Yes,231156,22,NA,Edge,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+16519,concept,No,231156,22,NA,Edge,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+16519,eyes,Open,231156,22,NA,Edge,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+15754,word_auditory,Yes,246911,23,NA,Edge,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+15754,word_orthographic,Yes,246911,23,NA,Edge,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+15754,word_say_real,Yes,246911,23,NA,Edge,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+15754,word_articulatory_real,Yes,246911,23,NA,Edge,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+15754,word_articulatory_imagined,Yes,246911,23,NA,Edge,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+15754,word_lexical_pure,No,246911,23,NA,Edge,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+8020.29999999702,additional-experiences_0,Imagined sounds (not of words),254933,24,NA,Edge,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+8020.29999999702,additional-experiences_1,Imagined voice without sounds,254933,24,NA,Edge,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+8020.29999999702,additional-experiences_2,Imagined tastes,254933,24,NA,Edge,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+8020.29999999702,additional-experiences_3,Emotions,254933,24,NA,Edge,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+8020.29999999702,additional-experiences_4,Imagined movements of your body,254933,24,NA,Edge,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+29245,comments_word,cleaar,284181,25,NA,Edge,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+29245,comments_visual,clear,284181,25,NA,Edge,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+29245,comments_concept,none,284181,25,NA,Edge,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+29245,comments_other,felt good,284181,25,NA,Edge,Main,spontaneous_reflexive,general,2,Think about <br><strong>what you would do on an unexpected day off</strong>
+7021,instruction-scenario,0,291203,26,NA,Edge,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+NA,scenario,NA,311206,27,NA,Edge,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+9155,lang_en,Yes,320363,28,NA,Edge,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+9155,lang_other,No,320363,28,NA,Edge,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+9155,visual,Yes,320363,28,NA,Edge,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+9155,concept,Yes,320363,28,NA,Edge,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+9155,eyes,"Sometimes open, sometimes closed",320363,28,NA,Edge,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+11617,word_auditory,Yes,331983,29,NA,Edge,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+11617,word_orthographic,No,331983,29,NA,Edge,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+11617,word_say_real,Yes,331983,29,NA,Edge,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+11617,word_articulatory_real,Yes,331983,29,NA,Edge,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+11617,word_articulatory_imagined,No,331983,29,NA,Edge,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+11617,attention_check_screen2_follow_instructions,No,331983,29,NA,Edge,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+11617,word_lexical_pure,I did not experience words,331983,29,NA,Edge,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+8731.5,additional-experiences_0,Imagined voice (not of words),340716,30,NA,Edge,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+8731.5,additional-experiences_1,Imagined smells,340716,30,NA,Edge,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+8731.5,additional-experiences_2,Emotions,340716,30,NA,Edge,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+8731.5,additional-experiences_3,Real bodily sensations,340716,30,NA,Edge,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+8731.5,additional-experiences_4,Real bodily movement,340716,30,NA,Edge,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+20015,comments_word,clear,360735,31,NA,Edge,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+20015,comments_visual,vivid,360735,31,NA,Edge,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+20015,comments_concept,Yes,360735,31,NA,Edge,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+20015,comments_other,None,360735,31,NA,Edge,Main,spontaneous_reflexive,general,3,Think about <br><strong>what your perfect weekend would include</strong>
+2778,instruction-scenario,0,363514,32,NA,Edge,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+NA,scenario,NA,383517,33,NA,Edge,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+8635,lang_en,Yes,392157,34,NA,Edge,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+8635,lang_other,No,392157,34,NA,Edge,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+8635,visual,Yes,392157,34,NA,Edge,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+8635,concept,Yes,392157,34,NA,Edge,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+8635,eyes,Open,392157,34,NA,Edge,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+9606,word_auditory,Yes,401765,35,NA,Edge,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+9606,word_orthographic,Yes,401765,35,NA,Edge,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+9606,word_say_real,I did not experience words,401765,35,NA,Edge,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+9606,word_articulatory_real,No,401765,35,NA,Edge,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+9606,word_articulatory_imagined,Yes,401765,35,NA,Edge,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+9606,word_lexical_pure,No,401765,35,NA,Edge,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+4159.4000000059605,additional-experiences_0,Imagined sounds (not of words),405927,36,NA,Edge,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+4159.4000000059605,additional-experiences_1,Emotions,405927,36,NA,Edge,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+14920,comments_word,clear,420850,37,NA,Edge,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+14920,comments_visual,clear,420850,37,NA,Edge,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+14920,comments_concept,none,420850,37,NA,Edge,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+14920,comments_other,none,420850,37,NA,Edge,Main,spontaneous_reflexive,general,4,Think about <br><strong>your ideal daily routine</strong>
+837,instruction-scenario,0,421688,38,NA,Edge,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+NA,scenario,NA,441690,39,NA,Edge,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+20208,lang_en,Yes,461904,40,NA,Edge,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+20208,lang_other,No,461904,40,NA,Edge,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+20208,visual,Yes,461904,40,NA,Edge,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+20208,concept,Yes,461904,40,NA,Edge,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+20208,eyes,"Sometimes open, sometimes closed",461904,40,NA,Edge,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+8850,word_auditory,Yes,470756,41,NA,Edge,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+8850,word_orthographic,Yes,470756,41,NA,Edge,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+8850,word_say_real,Yes,470756,41,NA,Edge,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+8850,word_articulatory_real,Yes,470756,41,NA,Edge,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+8850,word_articulatory_imagined,Yes,470756,41,NA,Edge,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+8850,word_lexical_pure,Yes,470756,41,NA,Edge,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+7078.5999999940395,additional-experiences_0,Imagined voice (not of words),477836,42,NA,Edge,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+7078.5999999940395,additional-experiences_1,Emotions,477836,42,NA,Edge,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+7078.5999999940395,additional-experiences_2,Imagined bodily sensations,477836,42,NA,Edge,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+7078.5999999940395,additional-experiences_3,Real bodily sensations,477836,42,NA,Edge,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+7078.5999999940395,additional-experiences_4,Real bodily movement,477836,42,NA,Edge,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+16995,comments_word,happy,494834,43,NA,Edge,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+16995,comments_visual,clear,494834,43,NA,Edge,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+16995,comments_concept,none,494834,43,NA,Edge,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+16995,comments_other,satisfied,494834,43,NA,Edge,Main,spontaneous_reflexive,general,5,Think about <br><strong>what you would do if you won the lottery</strong>
+804,instruction-scenario,0,495640,44,NA,Edge,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+NA,scenario,NA,515642,45,NA,Edge,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+10956,lang_en,Yes,526603,46,NA,Edge,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+10956,lang_other,No,526603,46,NA,Edge,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+10956,visual,Yes,526603,46,NA,Edge,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+10956,concept,Yes,526603,46,NA,Edge,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+10956,eyes,"Sometimes open, sometimes closed",526603,46,NA,Edge,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+6155,word_auditory,Yes,532760,47,NA,Edge,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+6155,word_orthographic,Yes,532760,47,NA,Edge,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+6155,word_say_real,Yes,532760,47,NA,Edge,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+6155,word_articulatory_real,No,532760,47,NA,Edge,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+6155,word_articulatory_imagined,No,532760,47,NA,Edge,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+6155,word_lexical_pure,I did not experience words,532760,47,NA,Edge,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+4154.5,additional-experiences_0,Imagined voice (not of words),536916,48,NA,Edge,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+4154.5,additional-experiences_1,Emotions,536916,48,NA,Edge,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+27947,comments_word,normal,564866,49,NA,Edge,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+27947,comments_visual,nothing,564866,49,NA,Edge,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+27947,comments_concept,Yes,564866,49,NA,Edge,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+27947,comments_other,nothing out of the ordinary,564866,49,NA,Edge,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+38255,end-of-block,0,603122,50,NA,Edge,Main,spontaneous_reflexive,general,6,Think about <br><strong>what you plan to do tomorrow</strong>
+1031,instruction-scenario,0,604153,51,NA,Edge,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+NA,scenario,NA,624156,52,NA,Edge,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+23315,lang_en,Yes,647472,53,NA,Edge,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+23315,lang_other,Yes,647472,53,NA,Edge,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+23315,visual,Yes,647472,53,NA,Edge,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+23315,concept,Yes,647472,53,NA,Edge,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+23315,eyes,Open,647472,53,NA,Edge,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+9183,word_auditory,Yes,656657,54,NA,Edge,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+9183,word_orthographic,Yes,656657,54,NA,Edge,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+9183,word_say_real,No,656657,54,NA,Edge,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+9183,word_articulatory_real,I did not experience words,656657,54,NA,Edge,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+9183,word_articulatory_imagined,Yes,656657,54,NA,Edge,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+9183,word_lexical_pure,No,656657,54,NA,Edge,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+3417,additional-experiences_0,Imagined smells,660076,55,NA,Edge,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+3417,additional-experiences_1,Emotions,660076,55,NA,Edge,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+33093,comments_word,felt good,693172,56,NA,Edge,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+33093,comments_visual,it was clear,693172,56,NA,Edge,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+33093,comments_concept,imagining the weather,693172,56,NA,Edge,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+33093,comments_other,none,693172,56,NA,Edge,Main,spontaneous_factual,general,7,Think about <br><strong>the weather in the city you live in</strong>
+1012,instruction-scenario,0,694185,57,NA,Edge,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+NA,scenario,NA,714187,58,NA,Edge,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+18526,lang_en,No,732719,59,NA,Edge,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+18526,lang_other,Yes,732719,59,NA,Edge,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+18526,visual,Yes,732719,59,NA,Edge,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+18526,concept,No,732719,59,NA,Edge,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+18526,attention_check_screen1_dancing_cats,Yes,732719,59,NA,Edge,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+18526,eyes,Open,732719,59,NA,Edge,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+5356,word_auditory,Yes,738076,60,NA,Edge,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+5356,word_orthographic,Yes,738076,60,NA,Edge,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+5356,word_say_real,No,738076,60,NA,Edge,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+5356,word_articulatory_real,I did not experience words,738076,60,NA,Edge,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+5356,word_articulatory_imagined,No,738076,60,NA,Edge,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+5356,word_lexical_pure,Yes,738076,60,NA,Edge,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+14583.40000000596,additional-experiences_0,Imagined sounds (not of words),752661,61,NA,Edge,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+14583.40000000596,additional-experiences_1,Imagined voice (not of words),752661,61,NA,Edge,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+14583.40000000596,additional-experiences_2,Emotions,752661,61,NA,Edge,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+15037,comments_word,clear,767702,62,NA,Edge,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+15037,comments_visual,vivid,767702,62,NA,Edge,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+15037,comments_concept,none,767702,62,NA,Edge,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+15037,comments_other,none,767702,62,NA,Edge,Main,spontaneous_factual,general,8,Think about <br><strong>things that a five-year-old can do for fun</strong>
+967,instruction-scenario,0,768670,63,NA,Edge,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+NA,scenario,NA,788671,64,NA,Edge,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+70570,lang_en,Yes,859243,65,NA,Edge,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+70570,lang_other,Yes,859243,65,NA,Edge,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+70570,visual,Yes,859243,65,NA,Edge,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+70570,concept,Yes,859243,65,NA,Edge,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+70570,eyes,"Sometimes open, sometimes closed",859243,65,NA,Edge,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+28148,word_auditory,Yes,887392,66,NA,Edge,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+28148,word_orthographic,No,887392,66,NA,Edge,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+28148,word_say_real,Yes,887392,66,NA,Edge,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+28148,word_articulatory_real,Yes,887392,66,NA,Edge,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+28148,word_articulatory_imagined,Yes,887392,66,NA,Edge,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+28148,word_lexical_pure,No,887392,66,NA,Edge,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+5160.29999999702,additional-experiences_0,Imagined sounds (not of words),892554,67,NA,Edge,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+5160.29999999702,additional-experiences_1,Imagined smells,892554,67,NA,Edge,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+5160.29999999702,additional-experiences_2,Emotions,892554,67,NA,Edge,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+11648,comments_word,clear,904204,68,NA,Edge,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+11648,comments_visual,vivd,904204,68,NA,Edge,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+11648,comments_concept,none,904204,68,NA,Edge,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+11648,comments_other,none,904204,68,NA,Edge,Main,spontaneous_factual,general,9,Think about <br><strong>good oral hygiene habits</strong>
+886,instruction-scenario,0,905093,69,NA,Edge,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+NA,scenario,NA,925094,70,NA,Edge,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+20519,lang_en,Yes,945619,71,NA,Edge,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+20519,lang_other,No,945619,71,NA,Edge,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+20519,visual,Yes,945619,71,NA,Edge,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+20519,concept,Yes,945619,71,NA,Edge,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+20519,eyes,Closed,945619,71,NA,Edge,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+5868,word_auditory,No,951489,72,NA,Edge,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+5868,word_orthographic,Yes,951489,72,NA,Edge,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+5868,word_say_real,No,951489,72,NA,Edge,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+5868,word_articulatory_real,No,951489,72,NA,Edge,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+5868,word_articulatory_imagined,Yes,951489,72,NA,Edge,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+5868,word_lexical_pure,Yes,951489,72,NA,Edge,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+5093.70000000298,additional-experiences_0,Imagined voice (not of words),956585,73,NA,Edge,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+5093.70000000298,additional-experiences_1,Imagined tastes,956585,73,NA,Edge,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+5093.70000000298,additional-experiences_2,Real bodily sensations,956585,73,NA,Edge,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+10843,comments_word,Yes,967431,74,NA,Edge,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+10843,comments_visual,None,967431,74,NA,Edge,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+10843,comments_concept,none,967431,74,NA,Edge,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+10843,comments_other,none,967431,74,NA,Edge,Main,spontaneous_factual,general,10,Think about <br><strong>the traffic in the city you live in</strong>
+1230,instruction-scenario,0,968663,75,NA,Edge,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+NA,scenario,NA,989445,76,NA,Edge,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+8052,lang_en,Yes,997500,77,NA,Edge,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+8052,lang_other,Yes,997500,77,NA,Edge,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+8052,visual,Yes,997500,77,NA,Edge,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+8052,concept,No,997500,77,NA,Edge,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+8052,eyes,Open,997500,77,NA,Edge,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+5184,word_auditory,Yes,1002686,78,NA,Edge,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+5184,word_orthographic,No,1002686,78,NA,Edge,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+5184,word_say_real,Yes,1002686,78,NA,Edge,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+5184,word_articulatory_real,Yes,1002686,78,NA,Edge,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+5184,word_articulatory_imagined,I did not experience words,1002686,78,NA,Edge,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+5184,word_lexical_pure,I did not experience words,1002686,78,NA,Edge,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+4583.100000008941,additional-experiences_0,Imagined voice (not of words),1007270,79,NA,Edge,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+4583.100000008941,additional-experiences_1,Emotions,1007270,79,NA,Edge,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+9991,comments_word,clear,1017265,80,NA,Edge,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+9991,comments_visual,vivid,1017265,80,NA,Edge,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+9991,comments_concept,none,1017265,80,NA,Edge,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+9991,comments_other,none,1017265,80,NA,Edge,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+37658,end-of-block,0,1054924,81,NA,Edge,Main,spontaneous_factual,general,11,Think about <br><strong>what people usually do on a beach vacation</strong>
+1072,instruction-scenario,0,1055997,82,NA,Edge,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+NA,scenario,NA,1076447,83,NA,Edge,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+34109,lang_en,Yes,1110559,84,NA,Edge,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+34109,lang_other,Yes,1110559,84,NA,Edge,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+34109,visual,No,1110559,84,NA,Edge,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+34109,concept,Yes,1110559,84,NA,Edge,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+34109,eyes,Closed,1110559,84,NA,Edge,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+5445,word_auditory,Yes,1116006,85,NA,Edge,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+5445,word_orthographic,Yes,1116006,85,NA,Edge,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+5445,word_say_real,No,1116006,85,NA,Edge,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+5445,word_articulatory_real,Yes,1116006,85,NA,Edge,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+5445,word_articulatory_imagined,Yes,1116006,85,NA,Edge,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+5445,word_lexical_pure,No,1116006,85,NA,Edge,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+3343.7000000029802,additional-experiences_0,Imagined voice (not of words),1119351,86,NA,Edge,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+3343.7000000029802,additional-experiences_1,Imagined tastes,1119351,86,NA,Edge,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+3343.7000000029802,additional-experiences_2,Real bodily sensations,1119351,86,NA,Edge,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+21089,comments_word,happy,1140442,87,NA,Edge,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+21089,comments_visual,satisfactory,1140442,87,NA,Edge,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+21089,comments_concept,none,1140442,87,NA,Edge,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+21089,comments_other,none,1140442,87,NA,Edge,Main,general_inner_speaking,general,12,Imagine talking about <br><strong>the cost of living in your area</strong>
+10210,instruction-scenario,0,1150653,88,NA,Edge,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+NA,scenario,NA,1171438,89,NA,Edge,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+94958,lang_en,Yes,1266399,90,NA,Edge,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+94958,lang_other,No,1266399,90,NA,Edge,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+94958,visual,Yes,1266399,90,NA,Edge,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+94958,concept,Yes,1266399,90,NA,Edge,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+94958,eyes,Open,1266399,90,NA,Edge,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+7479,word_auditory,Yes,1273880,91,NA,Edge,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+7479,word_orthographic,No,1273880,91,NA,Edge,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+7479,word_say_real,No,1273880,91,NA,Edge,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+7479,word_articulatory_real,Yes,1273880,91,NA,Edge,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+7479,word_articulatory_imagined,Yes,1273880,91,NA,Edge,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+7479,attention_check_screen2_mobile_tablet,Yes,1273880,91,NA,Edge,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+7479,word_lexical_pure,I did not experience words,1273880,91,NA,Edge,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+3960.2999999970198,additional-experiences_0,Imagined sounds (not of words),1277842,92,NA,Edge,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+3960.2999999970198,additional-experiences_1,Imagined smells,1277842,92,NA,Edge,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+3960.2999999970198,additional-experiences_2,Emotions,1277842,92,NA,Edge,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+11352,comments_word,happy,1289197,93,NA,Edge,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+11352,comments_visual,clear,1289197,93,NA,Edge,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+11352,comments_concept,none,1289197,93,NA,Edge,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+11352,comments_other,none,1289197,93,NA,Edge,Main,general_inner_speaking,general,13,Imagine talking about <br><strong>popular foods in your area</strong>
+1698,instruction-scenario,0,1290897,94,NA,Edge,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+NA,scenario,NA,1311439,95,NA,Edge,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+27204,lang_en,Yes,1338645,96,NA,Edge,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+27204,lang_other,Yes,1338645,96,NA,Edge,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+27204,visual,No,1338645,96,NA,Edge,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+27204,concept,Yes,1338645,96,NA,Edge,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+27204,eyes,Closed,1338645,96,NA,Edge,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+5007,word_auditory,Yes,1343653,97,NA,Edge,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+5007,word_orthographic,No,1343653,97,NA,Edge,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+5007,word_say_real,No,1343653,97,NA,Edge,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+5007,word_articulatory_real,Yes,1343653,97,NA,Edge,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+5007,word_articulatory_imagined,Yes,1343653,97,NA,Edge,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+5007,word_lexical_pure,No,1343653,97,NA,Edge,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+2944.6000000089407,additional-experiences_0,Imagined voice (not of words),1346599,98,NA,Edge,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+2944.6000000089407,additional-experiences_1,Imagined smells,1346599,98,NA,Edge,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+2944.6000000089407,additional-experiences_2,Emotions,1346599,98,NA,Edge,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+14819,comments_word,clear,1361421,99,NA,Edge,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+14819,comments_visual,vivid,1361421,99,NA,Edge,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+14819,comments_concept,none ,1361421,99,NA,Edge,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+14819,comments_other,none,1361421,99,NA,Edge,Main,general_inner_speaking,general,14,Imagine talking about <br><strong>activities people typically do on weekends</strong>
+866,instruction-scenario,0,1362288,100,NA,Edge,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+NA,scenario,NA,1382448,101,NA,Edge,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+5826,lang_en,Yes,1388278,102,NA,Edge,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+5826,lang_other,Yes,1388278,102,NA,Edge,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+5826,visual,No,1388278,102,NA,Edge,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+5826,concept,Yes,1388278,102,NA,Edge,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+5826,eyes,"Sometimes open, sometimes closed",1388278,102,NA,Edge,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+7087,word_auditory,Yes,1395367,103,NA,Edge,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+7087,word_orthographic,Yes,1395367,103,NA,Edge,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+7087,word_say_real,Yes,1395367,103,NA,Edge,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+7087,word_articulatory_real,Yes,1395367,103,NA,Edge,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+7087,word_articulatory_imagined,Yes,1395367,103,NA,Edge,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+7087,word_lexical_pure,Yes,1395367,103,NA,Edge,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+7148.5999999940395,additional-experiences_0,Imagined sounds (not of words),1402517,104,NA,Edge,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+7148.5999999940395,additional-experiences_1,Imagined tastes,1402517,104,NA,Edge,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+7148.5999999940395,additional-experiences_2,Emotions,1402517,104,NA,Edge,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+7148.5999999940395,additional-experiences_3,Imagined movements of your body,1402517,104,NA,Edge,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+7148.5999999940395,additional-experiences_4,Real bodily movement,1402517,104,NA,Edge,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+23320,comments_word,motivated,1425841,105,NA,Edge,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+23320,comments_visual,clear,1425841,105,NA,Edge,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+23320,comments_concept,none,1425841,105,NA,Edge,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+23320,comments_other,positive,1425841,105,NA,Edge,Main,general_inner_speaking,general,15,Imagine talking about <br><strong>useful skills in life</strong>
+1054,instruction-scenario,0,1426896,106,NA,Edge,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+NA,scenario,NA,1446898,107,NA,Edge,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+11038,lang_en,Yes,1457941,108,NA,Edge,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+11038,lang_other,Yes,1457941,108,NA,Edge,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+11038,visual,No,1457941,108,NA,Edge,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+11038,concept,Yes,1457941,108,NA,Edge,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+11038,eyes,"Sometimes open, sometimes closed",1457941,108,NA,Edge,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+5141,word_auditory,No,1463083,109,NA,Edge,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+5141,word_orthographic,Yes,1463083,109,NA,Edge,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+5141,word_say_real,No,1463083,109,NA,Edge,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+5141,word_articulatory_real,No,1463083,109,NA,Edge,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+5141,word_articulatory_imagined,Yes,1463083,109,NA,Edge,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+5141,word_lexical_pure,Yes,1463083,109,NA,Edge,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+3176.2999999970198,additional-experiences_0,Emotions,1466260,110,NA,Edge,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+888,comments_word,,1467150,111,NA,Edge,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+888,comments_visual,,1467150,111,NA,Edge,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+888,comments_concept,,1467150,111,NA,Edge,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+888,comments_other,,1467150,111,NA,Edge,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+16135,end-of-block,0,1483286,112,NA,Edge,Main,general_inner_speaking,general,16,Imagine talking about <br><strong>how technology has changed our lives</strong>
+833,instruction-scenario,0,1484120,113,NA,Edge,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+NA,scenario,NA,1504123,114,NA,Edge,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+3917,lang_en,Yes,1508042,115,NA,Edge,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+3917,lang_other,Yes,1508042,115,NA,Edge,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+3917,visual,Yes,1508042,115,NA,Edge,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+3917,concept,Yes,1508042,115,NA,Edge,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+3917,eyes,Closed,1508042,115,NA,Edge,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+7095,word_auditory,No,1515139,116,NA,Edge,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+7095,word_orthographic,Yes,1515139,116,NA,Edge,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+7095,word_say_real,No,1515139,116,NA,Edge,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+7095,word_articulatory_real,Yes,1515139,116,NA,Edge,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+7095,word_articulatory_imagined,No,1515139,116,NA,Edge,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+7095,word_lexical_pure,No,1515139,116,NA,Edge,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+6510,additional-experiences_0,Imagined sounds (not of words),1521650,117,NA,Edge,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+6510,additional-experiences_1,Emotions,1521650,117,NA,Edge,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+6510,additional-experiences_2,Imagined movements of your body,1521650,117,NA,Edge,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+9754,comments_word,clear,1531408,118,NA,Edge,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+9754,comments_visual,none,1531408,118,NA,Edge,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+9754,comments_concept,none,1531408,118,NA,Edge,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+9754,comments_other,none,1531408,118,NA,Edge,Main,general_inner_hearing,general,17,Imagine hearing someone talk about <br><strong>the nutrients the human body needs</strong>
+925,instruction-scenario,0,1532334,119,NA,Edge,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+NA,scenario,NA,1552455,120,NA,Edge,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+7441,lang_en,Yes,1559900,121,NA,Edge,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+7441,lang_other,Yes,1559900,121,NA,Edge,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+7441,visual,No,1559900,121,NA,Edge,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+7441,concept,Yes,1559900,121,NA,Edge,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+7441,attention_check_screen1_colorful_unicorns,Yes,1559900,121,NA,Edge,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+7441,eyes,"Sometimes open, sometimes closed",1559900,121,NA,Edge,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+6694,word_auditory,Yes,1566596,122,NA,Edge,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+6694,word_orthographic,Yes,1566596,122,NA,Edge,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+6694,word_say_real,No,1566596,122,NA,Edge,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+6694,word_articulatory_real,Yes,1566596,122,NA,Edge,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+6694,word_articulatory_imagined,Yes,1566596,122,NA,Edge,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+6694,word_lexical_pure,I did not experience words,1566596,122,NA,Edge,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+3624.7000000029802,additional-experiences_0,Emotions,1570222,123,NA,Edge,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+859,comments_word,,1571084,124,NA,Edge,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+859,comments_visual,,1571084,124,NA,Edge,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+859,comments_concept,,1571084,124,NA,Edge,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+859,comments_other,,1571084,124,NA,Edge,Main,general_inner_hearing,general,18,Imagine hearing someone talk about <br><strong>the neighborhood you live in</strong>
+787,instruction-scenario,0,1571872,125,NA,Edge,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+NA,scenario,NA,1592443,126,NA,Edge,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+9360,lang_en,Yes,1601809,127,NA,Edge,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+9360,lang_other,Yes,1601809,127,NA,Edge,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+9360,visual,No,1601809,127,NA,Edge,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+9360,concept,Yes,1601809,127,NA,Edge,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+9360,eyes,Closed,1601809,127,NA,Edge,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+4490,word_auditory,Yes,1606302,128,NA,Edge,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+4490,word_orthographic,Yes,1606302,128,NA,Edge,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+4490,word_say_real,Yes,1606302,128,NA,Edge,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+4490,word_articulatory_real,No,1606302,128,NA,Edge,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+4490,word_articulatory_imagined,Yes,1606302,128,NA,Edge,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+4490,word_lexical_pure,Yes,1606302,128,NA,Edge,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+3202.7999999970198,additional-experiences_0,Emotions,1609506,129,NA,Edge,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+841,comments_word,,1610351,130,NA,Edge,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+841,comments_visual,,1610351,130,NA,Edge,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+841,comments_concept,,1610351,130,NA,Edge,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+841,comments_other,,1610351,130,NA,Edge,Main,general_inner_hearing,general,19,Imagine hearing someone talk about <br><strong>essential preparation for traveling</strong>
+1180,instruction-scenario,0,1611532,131,NA,Edge,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+NA,scenario,NA,1631534,132,NA,Edge,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+6774,lang_en,Yes,1638309,133,NA,Edge,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+6774,lang_other,Yes,1638309,133,NA,Edge,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+6774,visual,Yes,1638309,133,NA,Edge,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+6774,concept,No,1638309,133,NA,Edge,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+6774,eyes,"Sometimes open, sometimes closed",1638309,133,NA,Edge,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+5741,word_auditory,Yes,1644051,134,NA,Edge,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+5741,word_orthographic,Yes,1644051,134,NA,Edge,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+5741,word_say_real,No,1644051,134,NA,Edge,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+5741,word_articulatory_real,Yes,1644051,134,NA,Edge,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+5741,word_articulatory_imagined,Yes,1644051,134,NA,Edge,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+5741,word_lexical_pure,I did not experience words,1644051,134,NA,Edge,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+2126.9000000059605,additional-experiences_0,Emotions,1646180,135,NA,Edge,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+827,comments_word,,1647010,136,NA,Edge,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+827,comments_visual,,1647010,136,NA,Edge,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+827,comments_concept,,1647010,136,NA,Edge,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+827,comments_other,,1647010,136,NA,Edge,Main,general_inner_hearing,general,20,Imagine hearing someone talk about <br><strong>how people usually spend their mornings</strong>
+1014,instruction-scenario,0,1648026,137,NA,Edge,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+NA,scenario,NA,1668444,138,NA,Edge,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+11566,lang_en,Yes,1680013,139,NA,Edge,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+11566,lang_other,Yes,1680013,139,NA,Edge,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+11566,visual,Yes,1680013,139,NA,Edge,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+11566,concept,No,1680013,139,NA,Edge,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+11566,eyes,Closed,1680013,139,NA,Edge,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+4711,word_auditory,No,1684725,140,NA,Edge,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+4711,word_orthographic,Yes,1684725,140,NA,Edge,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+4711,word_say_real,Yes,1684725,140,NA,Edge,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+4711,word_articulatory_real,No,1684725,140,NA,Edge,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+4711,word_articulatory_imagined,No,1684725,140,NA,Edge,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+4711,word_lexical_pure,Yes,1684725,140,NA,Edge,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+2454.5,additional-experiences_0,Emotions,1687181,141,NA,Edge,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+1351,comments_word,,1688534,142,NA,Edge,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+1351,comments_visual,,1688534,142,NA,Edge,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+1351,comments_concept,,1688534,142,NA,Edge,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+1351,comments_other,,1688534,142,NA,Edge,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+836,end-of-block,0,1689372,143,NA,Edge,Main,general_inner_hearing,general,21,Imagine hearing someone talk about <br><strong>good habits to stay healthy</strong>
+11301,instruction-scenario,0,1700674,144,NA,Edge,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+NA,scenario,NA,1710676,145,NA,Edge,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+6431,lang_en,Yes,1717110,146,NA,Edge,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+6431,lang_other,Yes,1717110,146,NA,Edge,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+6431,visual,No,1717110,146,NA,Edge,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+6431,concept,No,1717110,146,NA,Edge,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+6431,eyes,Open,1717110,146,NA,Edge,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+12486,word_auditory,Yes,1729597,147,NA,Edge,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+12486,word_orthographic,Yes,1729597,147,NA,Edge,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+12486,word_say_real,Yes,1729597,147,NA,Edge,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+12486,word_articulatory_real,Yes,1729597,147,NA,Edge,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+12486,word_articulatory_imagined,No,1729597,147,NA,Edge,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+12486,word_lexical_pure,I did not experience words,1729597,147,NA,Edge,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+7000.70000000298,additional-experiences_0,Imagined sounds (not of words),1736599,148,NA,Edge,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+7000.70000000298,additional-experiences_1,Imagined voice (not of words),1736599,148,NA,Edge,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+1436,comments_word,,1738038,149,NA,Edge,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+1436,comments_visual,,1738038,149,NA,Edge,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+1436,comments_concept,,1738038,149,NA,Edge,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+1436,comments_other,,1738038,149,NA,Edge,Main,specific_inner_speaking,specific,22,Imagine saying the sentence: <br><strong>English is a language</strong>
+5686,instruction-scenario,0,1743725,150,NA,Edge,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+NA,scenario,NA,1753728,151,NA,Edge,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+10783,lang_en,Yes,1764515,152,NA,Edge,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+10783,lang_other,Yes,1764515,152,NA,Edge,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+10783,visual,No,1764515,152,NA,Edge,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+10783,concept,No,1764515,152,NA,Edge,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+10783,eyes,Open,1764515,152,NA,Edge,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+21187,word_auditory,Yes,1785704,153,NA,Edge,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+21187,word_orthographic,Yes,1785704,153,NA,Edge,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+21187,word_say_real,Yes,1785704,153,NA,Edge,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+21187,word_articulatory_real,Yes,1785704,153,NA,Edge,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+21187,word_articulatory_imagined,Yes,1785704,153,NA,Edge,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+21187,attention_check_screen2_fall_asleep,No,1785704,153,NA,Edge,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+21187,word_lexical_pure,No,1785704,153,NA,Edge,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+3584.5,additional-experiences_0,Imagined sounds (not of words),1789290,154,NA,Edge,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+3584.5,additional-experiences_1,Imagined voice (not of words),1789290,154,NA,Edge,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+1159,comments_word,,1790452,155,NA,Edge,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+1159,comments_visual,,1790452,155,NA,Edge,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+1159,comments_concept,,1790452,155,NA,Edge,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+1159,comments_other,,1790452,155,NA,Edge,Main,specific_inner_speaking,specific,23,Imagine saying the sentence: <br><strong>Mathematics is a major</strong>
+887,instruction-scenario,0,1791340,156,NA,Edge,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+NA,scenario,NA,1801341,157,NA,Edge,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+8219,lang_en,Yes,1809564,158,NA,Edge,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+8219,lang_other,Yes,1809564,158,NA,Edge,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+8219,visual,Yes,1809564,158,NA,Edge,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+8219,concept,No,1809564,158,NA,Edge,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+8219,eyes,Open,1809564,158,NA,Edge,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+12869,word_auditory,Yes,1822435,159,NA,Edge,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+12869,word_orthographic,Yes,1822435,159,NA,Edge,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+12869,word_say_real,Yes,1822435,159,NA,Edge,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+12869,word_articulatory_real,Yes,1822435,159,NA,Edge,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+12869,word_articulatory_imagined,Yes,1822435,159,NA,Edge,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+12869,word_lexical_pure,Yes,1822435,159,NA,Edge,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+2933.5,additional-experiences_0,Emotions,1825370,160,NA,Edge,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+2933.5,additional-experiences_1,Imagined bodily sensations,1825370,160,NA,Edge,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+1252,comments_word,,1826626,161,NA,Edge,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+1252,comments_visual,,1826626,161,NA,Edge,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+1252,comments_concept,,1826626,161,NA,Edge,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+1252,comments_other,,1826626,161,NA,Edge,Main,specific_inner_speaking,specific,24,Imagine saying the sentence: <br><strong>Democracy is a system</strong>
+712,instruction-scenario,0,1827339,162,NA,Edge,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+NA,scenario,NA,1837341,163,NA,Edge,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+5382,lang_en,Yes,1842726,164,NA,Edge,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+5382,lang_other,Yes,1842726,164,NA,Edge,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+5382,visual,Yes,1842726,164,NA,Edge,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+5382,concept,Yes,1842726,164,NA,Edge,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+5382,eyes,Open,1842726,164,NA,Edge,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+7786,word_auditory,Yes,1850513,165,NA,Edge,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+7786,word_orthographic,Yes,1850513,165,NA,Edge,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+7786,word_say_real,No,1850513,165,NA,Edge,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+7786,word_articulatory_real,Yes,1850513,165,NA,Edge,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+7786,word_articulatory_imagined,Yes,1850513,165,NA,Edge,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+7786,word_lexical_pure,No,1850513,165,NA,Edge,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+2095.0999999940395,additional-experiences_0,Emotions,1852609,166,NA,Edge,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+1199,comments_word,,1853812,167,NA,Edge,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+1199,comments_visual,,1853812,167,NA,Edge,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+1199,comments_concept,,1853812,167,NA,Edge,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+1199,comments_other,,1853812,167,NA,Edge,Main,specific_inner_speaking,specific,25,Imagine saying the sentence: <br><strong>Growth is a process</strong>
+905,instruction-scenario,0,1854717,168,NA,Edge,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+NA,scenario,NA,1864720,169,NA,Edge,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+4268,lang_en,Yes,1868991,170,NA,Edge,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+4268,lang_other,Yes,1868991,170,NA,Edge,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+4268,visual,Yes,1868991,170,NA,Edge,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+4268,concept,No,1868991,170,NA,Edge,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+4268,eyes,Open,1868991,170,NA,Edge,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+5558,word_auditory,Yes,1874550,171,NA,Edge,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+5558,word_orthographic,Yes,1874550,171,NA,Edge,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+5558,word_say_real,Yes,1874550,171,NA,Edge,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+5558,word_articulatory_real,No,1874550,171,NA,Edge,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+5558,word_articulatory_imagined,Yes,1874550,171,NA,Edge,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+5558,word_lexical_pure,Yes,1874550,171,NA,Edge,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+1702.7000000029802,additional-experiences_0,Emotions,1876255,172,NA,Edge,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+1230,comments_word,,1877488,173,NA,Edge,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+1230,comments_visual,,1877488,173,NA,Edge,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+1230,comments_concept,,1877488,173,NA,Edge,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+1230,comments_other,,1877488,173,NA,Edge,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+1570,end-of-block,0,1879059,174,NA,Edge,Main,specific_inner_speaking,specific,26,Imagine saying the sentence: <br><strong>Time is a dimension</strong>
+949,instruction-scenario,0,1880009,175,NA,Edge,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+NA,scenario,NA,1890011,176,NA,Edge,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+6723,lang_en,Yes,1896736,177,NA,Edge,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+6723,lang_other,Yes,1896736,177,NA,Edge,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+6723,visual,No,1896736,177,NA,Edge,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+6723,concept,No,1896736,177,NA,Edge,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+6723,eyes,Open,1896736,177,NA,Edge,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+7607,word_auditory,Yes,1904344,178,NA,Edge,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+7607,word_orthographic,Yes,1904344,178,NA,Edge,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+7607,word_say_real,No,1904344,178,NA,Edge,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+7607,word_articulatory_real,Yes,1904344,178,NA,Edge,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+7607,word_articulatory_imagined,Yes,1904344,178,NA,Edge,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+7607,word_lexical_pure,No,1904344,178,NA,Edge,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+3700.0999999940395,additional-experiences_0,Imagined sounds (not of words),1908046,179,NA,Edge,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+3700.0999999940395,additional-experiences_1,Imagined voice (not of words),1908046,179,NA,Edge,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+3700.0999999940395,additional-experiences_2,Emotions,1908046,179,NA,Edge,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+1213,comments_word,,1909262,180,NA,Edge,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+1213,comments_visual,,1909262,180,NA,Edge,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+1213,comments_concept,,1909262,180,NA,Edge,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+1213,comments_other,,1909262,180,NA,Edge,Main,specific_inner_hearing,specific,27,Imagine hearing the sentence: <br><strong>Logic is a tool</strong>
+1415,instruction-scenario,0,1910679,181,NA,Edge,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+NA,scenario,NA,1920681,182,NA,Edge,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+12119,lang_en,Yes,1932801,183,NA,Edge,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+12119,lang_other,Yes,1932801,183,NA,Edge,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+12119,visual,No,1932801,183,NA,Edge,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+12119,concept,Yes,1932801,183,NA,Edge,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+12119,attention_check_screen1_flying_pigs,No,1932801,183,NA,Edge,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+12119,eyes,Open,1932801,183,NA,Edge,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+7512,word_auditory,Yes,1940314,184,NA,Edge,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+7512,word_orthographic,No,1940314,184,NA,Edge,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+7512,word_say_real,No,1940314,184,NA,Edge,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+7512,word_articulatory_real,Yes,1940314,184,NA,Edge,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+7512,word_articulatory_imagined,Yes,1940314,184,NA,Edge,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+7512,word_lexical_pure,No,1940314,184,NA,Edge,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+1720.9000000059605,additional-experiences_0,Emotions,1942037,185,NA,Edge,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+1238,comments_word,,1943278,186,NA,Edge,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+1238,comments_visual,,1943278,186,NA,Edge,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+1238,comments_concept,,1943278,186,NA,Edge,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+1238,comments_other,,1943278,186,NA,Edge,Main,specific_inner_hearing,specific,28,Imagine hearing the sentence: <br><strong>Gravity is a force</strong>
+885,instruction-scenario,0,1944165,187,NA,Edge,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+NA,scenario,NA,1954166,188,NA,Edge,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+4971,lang_en,Yes,1959141,189,NA,Edge,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+4971,lang_other,Yes,1959141,189,NA,Edge,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+4971,visual,No,1959141,189,NA,Edge,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+4971,concept,Yes,1959141,189,NA,Edge,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+4971,eyes,Open,1959141,189,NA,Edge,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+6859,word_auditory,Yes,1966001,190,NA,Edge,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+6859,word_orthographic,No,1966001,190,NA,Edge,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+6859,word_say_real,No,1966001,190,NA,Edge,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+6859,word_articulatory_real,Yes,1966001,190,NA,Edge,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+6859,word_articulatory_imagined,Yes,1966001,190,NA,Edge,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+6859,word_lexical_pure,I did not experience words,1966001,190,NA,Edge,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+3470.0999999940395,additional-experiences_0,Imagined sounds (not of words),1969473,191,NA,Edge,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+3470.0999999940395,additional-experiences_1,Imagined voice (not of words),1969473,191,NA,Edge,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+3470.0999999940395,additional-experiences_2,Emotions,1969473,191,NA,Edge,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+1286,comments_word,,1970762,192,NA,Edge,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+1286,comments_visual,,1970762,192,NA,Edge,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+1286,comments_concept,,1970762,192,NA,Edge,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+1286,comments_other,,1970762,192,NA,Edge,Main,specific_inner_hearing,specific,29,Imagine hearing the sentence: <br><strong>Ideas are valuable</strong>
+1507,instruction-scenario,0,1972271,193,NA,Edge,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+NA,scenario,NA,1982272,194,NA,Edge,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+5242,lang_en,Yes,1987518,195,NA,Edge,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+5242,lang_other,Yes,1987518,195,NA,Edge,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+5242,visual,Yes,1987518,195,NA,Edge,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+5242,concept,No,1987518,195,NA,Edge,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+5242,eyes,Open,1987518,195,NA,Edge,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+8736,word_auditory,Yes,1996256,196,NA,Edge,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+8736,word_orthographic,Yes,1996256,196,NA,Edge,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+8736,word_say_real,No,1996256,196,NA,Edge,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+8736,word_articulatory_real,Yes,1996256,196,NA,Edge,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+8736,word_articulatory_imagined,No,1996256,196,NA,Edge,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+8736,word_lexical_pure,I did not experience words,1996256,196,NA,Edge,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+4081,additional-experiences_0,Imagined voice (not of words),2000339,197,NA,Edge,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+4081,additional-experiences_1,Emotions,2000339,197,NA,Edge,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+4081,additional-experiences_2,Real bodily sensations,2000339,197,NA,Edge,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+1129,comments_word,,2001471,198,NA,Edge,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+1129,comments_visual,,2001471,198,NA,Edge,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+1129,comments_concept,,2001471,198,NA,Edge,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+1129,comments_other,,2001471,198,NA,Edge,Main,specific_inner_hearing,specific,30,Imagine hearing the sentence: <br><strong>Honesty is a quality</strong>
+1070,instruction-scenario,0,2002543,199,NA,Edge,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+NA,scenario,NA,2012544,200,NA,Edge,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+4418,lang_en,Yes,2016965,201,NA,Edge,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+4418,lang_other,Yes,2016965,201,NA,Edge,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+4418,visual,No,2016965,201,NA,Edge,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+4418,concept,Yes,2016965,201,NA,Edge,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+4418,eyes,Open,2016965,201,NA,Edge,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+8437,word_auditory,Yes,2025404,202,NA,Edge,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+8437,word_orthographic,Yes,2025404,202,NA,Edge,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+8437,word_say_real,Yes,2025404,202,NA,Edge,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+8437,word_articulatory_real,No,2025404,202,NA,Edge,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+8437,word_articulatory_imagined,I did not experience words,2025404,202,NA,Edge,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+8437,word_lexical_pure,I did not experience words,2025404,202,NA,Edge,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+2793.0999999940395,additional-experiences_0,Imagined voice (not of words),2028199,203,NA,Edge,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+2793.0999999940395,additional-experiences_1,Emotions,2028199,203,NA,Edge,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+1206,comments_word,,2029409,204,NA,Edge,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+1206,comments_visual,,2029409,204,NA,Edge,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+1206,comments_concept,,2029409,204,NA,Edge,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+1206,comments_other,,2029409,204,NA,Edge,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+2284,end-of-block,0,2031694,205,NA,Edge,Main,specific_inner_hearing,specific,31,Imagine hearing the sentence: <br><strong>Learning is a journey</strong>
+31726,frequency_auditory,2,2063423,206,NA,Edge,GeneralQs,,,,
+31726,frequency_orthographic,1,2063423,206,NA,Edge,GeneralQs,,,,
+31726,frequency_articulatory_imagined,1,2063423,206,NA,Edge,GeneralQs,,,,
+31726,frequency_articulatory_real,1,2063423,206,NA,Edge,GeneralQs,,,,
+31726,frequency_say_real,2,2063423,206,NA,Edge,GeneralQs,,,,
+31726,frequency_lexical_pure,2,2063423,206,NA,Edge,GeneralQs,,,,
+31726,frequency_visual,1,2063423,206,NA,Edge,GeneralQs,,,,
+31726,frequency_concept,1,2063423,206,NA,Edge,GeneralQs,,,,
+10999,instruction-PsiQ,0,2074424,207,NA,Edge,PsiQ,,,,
+13800,psiq_vision_1,9,2088227,208,NA,Edge,PsiQ,,,,
+13800,psiq_vision_2,3,2088227,208,NA,Edge,PsiQ,,,,
+13800,psiq_vision_3,8,2088227,208,NA,Edge,PsiQ,,,,
+13800,psiq_vision_4,10,2088227,208,NA,Edge,PsiQ,,,,
+13800,psiq_vision_5,7,2088227,208,NA,Edge,PsiQ,,,,
+17423,psiq_sound_1,8,2105653,209,NA,Edge,PsiQ,,,,
+17423,psiq_sound_2,10,2105653,209,NA,Edge,PsiQ,,,,
+17423,psiq_sound_3,10,2105653,209,NA,Edge,PsiQ,,,,
+17423,psiq_sound_4,10,2105653,209,NA,Edge,PsiQ,,,,
+17423,psiq_sound_5,7,2105653,209,NA,Edge,PsiQ,,,,
+12697,psiq_smell_1,2,2118353,210,NA,Edge,PsiQ,,,,
+12697,psiq_smell_2,8,2118353,210,NA,Edge,PsiQ,,,,
+12697,psiq_smell_3,7,2118353,210,NA,Edge,PsiQ,,,,
+12697,psiq_smell_4,8,2118353,210,NA,Edge,PsiQ,,,,
+12697,psiq_smell_5,6,2118353,210,NA,Edge,PsiQ,,,,
+8418,psiq_taste_1,10,2126773,211,NA,Edge,PsiQ,,,,
+8418,psiq_taste_2,10,2126773,211,NA,Edge,PsiQ,,,,
+8418,psiq_taste_3,10,2126773,211,NA,Edge,PsiQ,,,,
+8418,psiq_taste_4,8,2126773,211,NA,Edge,PsiQ,,,,
+8418,psiq_taste_5,10,2126773,211,NA,Edge,PsiQ,,,,
+12108,psiq_touch_1,8,2138883,212,NA,Edge,PsiQ,,,,
+12108,psiq_touch_2,7,2138883,212,NA,Edge,PsiQ,,,,
+12108,psiq_touch_3,6,2138883,212,NA,Edge,PsiQ,,,,
+12108,psiq_touch_4,8,2138883,212,NA,Edge,PsiQ,,,,
+12108,psiq_touch_5,6,2138883,212,NA,Edge,PsiQ,,,,
+13819,psiq_kinesthetic_1,10,2152705,213,NA,Edge,PsiQ,,,,
+13819,psiq_kinesthetic_2,8,2152705,213,NA,Edge,PsiQ,,,,
+13819,psiq_kinesthetic_3,7,2152705,213,NA,Edge,PsiQ,,,,
+13819,psiq_kinesthetic_4,9,2152705,213,NA,Edge,PsiQ,,,,
+13819,psiq_kinesthetic_5,5,2152705,213,NA,Edge,PsiQ,,,,
+9547,psiq_emotional_1,8,2162255,214,NA,Edge,PsiQ,,,,
+9547,psiq_emotional_2,7,2162255,214,NA,Edge,PsiQ,,,,
+9547,psiq_emotional_3,3,2162255,214,NA,Edge,PsiQ,,,,
+9547,psiq_emotional_4,10,2162255,214,NA,Edge,PsiQ,,,,
+9547,psiq_emotional_5,9,2162255,214,NA,Edge,PsiQ,,,,

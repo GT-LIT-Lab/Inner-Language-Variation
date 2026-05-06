@@ -1,0 +1,1149 @@
+---
+title: "IS CogSci Analayis"
+output: html_notebook
+---
+```{r }
+knitr::opts_knit$set(
+  root.dir = dirname(rstudioapi::getActiveDocumentContext()$path)
+)
+getwd()
+```
+
+```{r load packages}
+rm(list=ls()) 
+library(lme4)
+library(lmerTest)
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+library(stringr)
+library(purrr)
+library(patchwork)
+library(data.table)
+library(cluster)
+library(factoextra)   # makes it easy
+#install.packages("fmsb")
+library(fmsb)
+library(scales)
+library(readxl)
+library(Hmisc)
+library(ggcorrplot)
+library(reshape2)
+#library(gghalves)
+library(ggridges)
+library(rstatix)
+library(vegan)
+library(psych)
+library(coin)
+library(boot)
+library(svglite)
+library(tibble)
+```
+
+```{r load and filter data}
+study <- 'V1'
+df_main <- read.csv(file.path(paste0('./data_', study,'//processed/data_main.csv')))
+df_psiq <- read.csv('./data_V1/processed/data_psiq.csv')
+df_main_other <- read.csv(file.path(paste0('./data_', study,'//processed/data_main_other.csv'))) 
+df_general <- read.csv(file.path(paste0('./data_', study,'//processed/data_frequency.csv'))) 
+
+# exclude subjects 
+excl_attn <- read.table(file.path(paste0('./data_', study, '//qc/to_exclude_attn_chk.txt'))) 
+excl_ai <- read.table(file.path(paste0('./data_', study, '/qc/to_exclude_bad_comments.txt')))
+
+df_main <- df_main %>% filter(!(prolific_id %in% excl_ai$V1 | prolific_id %in% excl_attn$V1))
+df_psiq <- df_psiq %>% filter(!(prolific_id %in% excl_ai$V1 | prolific_id %in% excl_attn$V1))
+df_main_other <- df_main_other %>% filter(!(prolific_id %in% excl_ai$V1 | prolific_id %in% excl_attn$V1))
+df_general <- df_general %>% filter(!(prolific_id %in% excl_ai$V1 | prolific_id %in% excl_attn$V1))
+
+#glimpse(df)
+df_main = df_main %>% 
+  mutate(response = case_when(
+    response == "True" ~ 1,
+    response == "False" ~ 0
+  ))
+
+length(unique(df_main$prolific_id))
+
+```
+
+```{r set up variables}
+# block info
+spontaneous <- c("spontaneous_reflexive","spontaneous_factual")
+specific <- c("specific_inner_speaking","specific_inner_hearing")
+general <- c("general_inner_speaking","general_inner_hearing")
+first_qs <- c("img_lang", "img_visual","img_concept")
+img_word <- c("img_word_sound","img_word_orth","img_word_artic","img_word_pure")
+all_qs <- c("img_lang", "img_visual","img_concept","img_word_sound","img_word_orth","img_word_artic","img_word_pure")
+qs_main<- c("img_visual","img_concept","img_word_sound","img_word_orth","img_word_artic","img_word_pure","real_word_artic_motor","real_word_artic_say") # no lang
+
+block_order <- c("specific_inner_speaking", "general_inner_speaking", "spontaneous","general_inner_hearing", "specific_inner_hearing")
+
+BLOCK_COLORS <- c(
+    "spontaneous_reflexive" = '#BDB7AB', 
+    "spontaneous_factual"= '#D6CFC7',
+    "general_inner_speaking"= '#FFBB78',
+    'general_inner_hearing'= '#AEC7E3',
+    'specific_inner_speaking'= '#FF7F0E',
+    'specific_inner_hearing'= '#1F77B4'
+)
+
+BLOCK_COLORS_avg_Spont <- c(
+    "spontaneous" = '#BDB7AB', 
+    "general_inner_speaking"= '#FFBB78',
+    'general_inner_hearing'= '#AEC7E3',
+    'specific_inner_speaking'= '#FF7F0E',
+    'specific_inner_hearing'= '#1F77B4'
+)
+
+
+```
+
+# average frequency
+
+```{r choose the data you wanna use calculate frequency}
+df_main_clean <- df_main
+df_main_clean <- df_main_clean %>% filter(question %in% c(all_qs))%>%
+  mutate(question = factor(question, levels = c(all_qs)))
+
+df_main_clean <- df_main_clean %>% group_by(prolific_id,question,block)  %>%
+  summarise(resp_freq = mean(response), .groups = "drop")
+
+```
+
+
+```{r get spont data}
+df_main_spont <- df_main_clean %>% filter(block %in% spontaneous)
+#average 2 spontaneous blocks
+df_main_spont <- df_main_spont %>% group_by(prolific_id,question)  %>%
+  summarise(resp_freq = round(mean(resp_freq),1), .groups = "drop")
+# df_main_spont <- df_main_spont %>% group_by(prolific_id,question)  %>%
+#   summarise(resp_freq = mean(resp_freq), .groups = "drop")
+
+avg_freq <- df_main_spont %>%
+  group_by(question) %>%
+  summarise(
+    mean_resp = mean(resp_freq, na.rm = TRUE),
+    se_resp = sd(resp_freq, na.rm = TRUE) / sqrt(n()),
+    .groups = "drop"
+  )
+avg_freq
+
+# test if all category is greater than 0.05 (or 0.5) frequency using wilxcon test
+df_wilcox <- df_main_spont %>%
+  group_by(question) %>%
+  summarise(
+    test = list(wilcox.test(resp_freq, mu = 0.5, alternative = "greater",correct = FALSE)),
+    .groups = "drop"
+  ) %>%
+  mutate(
+    W = sapply(test, function(x) x$statistic),
+    p_value = sapply(test, function(x) x$p.value)
+  ) %>%
+  select(-test)
+df_wilcox <- df_wilcox %>%
+  mutate(
+    p_adj = p.adjust(p_value, method = "fdr")
+  ) %>% mutate(
+    sig = case_when(
+      p_adj < .001 ~ "***",
+      p_adj < .01  ~ "**",
+      p_adj < .05  ~ "*",
+      TRUE         ~ "ns"
+    )
+  )
+df_wilcox
+
+
+```
+
+```{r between modality comparison}
+df_wide <- df_main_spont %>%
+  pivot_wider(
+    names_from = question,
+    values_from = resp_freq
+  )
+
+pairs_first <- combn(first_qs, 2, simplify = FALSE)
+pairs_word <- combn(img_word, 2, simplify = FALSE)
+
+run_pairwise <- function(df, pairs, label) {
+  map_dfr(pairs, function(p) {
+    x <- df[[p[1]]]
+    y <- df[[p[2]]]
+    keep <- complete.cases(x, y)
+    d <- x[keep] - y[keep]
+    d <- d[d != 0]                          # drop zeros
+    test <- wilcox.test(d, mu = 0,
+                        paired = FALSE,
+                        correct = FALSE,
+                        exact = FALSE)
+    tibble(
+      group = label,
+      var1 = p[1], var2 = p[2],
+      n = length(d),
+      V = test$statistic,
+      p = test$p.value
+    )
+  })
+}
+
+res_first <- run_pairwise(df_wide, pairs_first, "General")
+res_word  <- run_pairwise(df_wide, pairs_word,  "Forms of Language")
+
+results <- bind_rows(res_first, res_word)
+
+results <- results %>%
+  group_by(group) %>%
+  mutate(
+    p_adj = p.adjust(p, method = "fdr"),
+    sig = case_when(
+      p_adj < 0.001 ~ "***",
+      p_adj < 0.01  ~ "**",
+      p_adj < 0.05  ~ "*",
+      TRUE ~ ""
+    )
+  ) %>%
+  ungroup()
+```
+
+```{r adding stack bars}
+df_main_spont <- df_main_spont %>%
+  mutate(
+    freq_group = case_when(
+      resp_freq == 0                          ~ "Never",
+      resp_freq >= 0.1 & resp_freq <= 0.3     ~ "Rarely",
+      resp_freq >= 0.4 & resp_freq <= 0.6     ~ "Sometimes",
+      resp_freq >= 0.7 & resp_freq <= 0.9     ~ "Often",
+      resp_freq == 1                          ~ "Always",
+      TRUE                                    ~ NA_character_
+    )
+  )
+
+#freq_levels <- c("Never","Rarely","Sometimes","Often","Always")
+
+df_percent <- df_main_spont %>%
+  group_by(question, freq_group) %>%
+  summarise(n = n(), .groups = "drop") %>%
+  group_by(question) %>%
+  mutate(
+    percent = 100 * n / sum(n)
+  ) %>%
+  ungroup()
+df_percent
+
+df_percent_plot <- df_percent
+df_percent_plot$freq_group <- factor(
+  df_percent_plot$freq_group,
+  levels = c("Never","Rarely","Sometimes","Often","Always"),
+  ordered = TRUE)
+
+df_percent_plot <- df_percent %>%
+  filter(question %in% c(first_qs, img_word)) %>% mutate(question = factor(question, levels = c(img_word,first_qs))) %>%
+  mutate(
+    panel = case_when(
+      question %in% first_qs ~ "General",
+      question %in% img_word    ~ "Forms of Language"
+    )
+  ) %>% mutate(panel = factor(panel, levels = c("General","Forms of Language")))
+
+custom_spectral <- c(
+  "Never"     = "#3B4CC0",  # deep blue
+  "Rarely"    = "#7A95D8",  # light blue
+  "Sometimes" = "#BDBDBD",  # grey
+  "Often"     = "#E98B6C",  # salmon
+  "Always"    = "#C4001A"   # deep red
+)
+
+df_percent_plot <- df_percent_plot %>%
+  mutate(
+    freq_group = factor(
+      freq_group,
+      levels = c("Always","Often","Sometimes","Rarely", "Never"),
+      ordered = TRUE
+    )
+  )
+
+
+plot <-ggplot(df_percent_plot, #%>% filter(question %in% img_word)
+       aes(x = question, y = percent, fill = freq_group)) +
+  geom_col(width = 0.8) +
+  facet_wrap(~ panel, scales = "free_x") +
+  scale_fill_manual(
+  values = custom_spectral,
+  drop = FALSE
+) +
+  scale_y_continuous(
+    limits = c(0, 100.01),
+    breaks = c(0, 20, 40, 60, 80),
+    expand = c(0, 0)
+  ) + geom_hline(yintercept = c(20, 40, 60, 80),
+    linetype = "dashed", color = "grey60",
+    linewidth = 0.5) +
+  #coord_flip() +
+  labs(
+    x = NULL,
+    y = "Percentage (%)",
+    fill = "Frequency"
+  ) +
+  theme_classic(base_size = 14) +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1, size = 10),
+    panel.border = element_rect(color = "black", fill = NA),
+    strip.text = element_blank(),     
+  strip.background = element_blank()
+  )
+
+
+svglite(paste0("./Figures_CogSci_042026/", study, "_avgfreq_stack_bar_language_form_separate.svg"), width =7, height = 5)
+print(plot)
+dev.off()
+```
+
+```{r proportion of different propensity}
+# to get proportion of different propensity
+print("lang high propensity: ")
+df_percent$percent[df_percent$question == "img_lang" & df_percent$freq_group == "Always"] + df_percent$percent[df_percent$question == "img_lang" & df_percent$freq_group == "Often"]
+
+print("lang no propensity: ")
+df_percent$percent[df_percent$question == "img_lang" & df_percent$freq_group == "Never"]
+
+print("lang low propensity: ")
+df_percent$percent[df_percent$question == "img_lang" & df_percent$freq_group == "Rarely"]
+
+print("Auditory high propensity: ")
+df_percent$percent[df_percent$question == "img_word_sound" & df_percent$freq_group == "Always"] + df_percent$percent[df_percent$question == "img_word_sound" & df_percent$freq_group == "Often"]
+
+print("Auditory no or low propensity: ")
+df_percent$percent[df_percent$question == "img_word_sound" & df_percent$freq_group == "Never"] + df_percent$percent[df_percent$question == "img_word_sound" & df_percent$freq_group == "Rarely"]
+
+print("Articulatory no or low propensity: ")
+df_percent$percent[df_percent$question == "img_word_artic" & df_percent$freq_group == "Never"] + df_percent$percent[df_percent$question == "img_word_artic" & df_percent$freq_group == "Rarely"]
+
+print("Ortho no or low propensity: ")
+df_percent$percent[df_percent$question == "img_word_orth" & df_percent$freq_group == "Never"] + df_percent$percent[df_percent$question == "img_word_orth" & df_percent$freq_group == "Rarely"]
+
+print("Articulatory high propensity: ")
+df_percent$percent[df_percent$question == "img_word_artic" & df_percent$freq_group == "Always"] + df_percent$percent[df_percent$question == "img_word_artic" & df_percent$freq_group == "Often"]
+
+print("Ortho high propensity: ")
+df_percent$percent[df_percent$question == "img_word_orth" & df_percent$freq_group == "Always"] + df_percent$percent[df_percent$question == "img_word_orth" & df_percent$freq_group == "Often"]
+
+print("Lexical no or low propensity: ")
+df_percent$percent[df_percent$question == "img_word_pure" & df_percent$freq_group == "Never"] + df_percent$percent[df_percent$question == "img_word_pure" & df_percent$freq_group == "Rarely"]
+
+print("Lexical high propensity: ")
+df_percent$percent[df_percent$question == "img_word_pure" & df_percent$freq_group == "Always"] + df_percent$percent[df_percent$question == "img_word_pure" & df_percent$freq_group == "Often"]
+
+print("Visual high propensity: ")
+df_percent$percent[df_percent$question == "img_visual" & df_percent$freq_group == "Always"] + df_percent$percent[df_percent$question == "img_visual" & df_percent$freq_group == "Often"]
+print("Visual no or low propensity: ")
+df_percent$percent[df_percent$question == "img_visual" & df_percent$freq_group == "Never"] + df_percent$percent[df_percent$question == "img_visual" & df_percent$freq_group == "Rarely"]
+
+print("Concept high propensity: ")
+df_percent$percent[df_percent$question == "img_concept" & df_percent$freq_group == "Always"] + df_percent$percent[df_percent$question == "img_concept" & df_percent$freq_group == "Often"]
+print("Concept no or low propensity: ")
+df_percent$percent[df_percent$question == "img_concept" & df_percent$freq_group == "Never"] + df_percent$percent[df_percent$question == "img_concept" & df_percent$freq_group == "Rarely"]
+
+
+```
+
+# Inner lanugage ability
+
+```{r inner langauge ability}
+
+library(ggplot2)
+library(ggbreak)
+library(dplyr)
+library(stringr)
+
+# --- Data prep ---
+question <- "img_lang"
+blks <- c("spontaneous", "general", "specific")
+
+dat_hist <- df_main %>%
+  filter(question == !!question) %>%
+  mutate(block_group = str_split_fixed(block, "_", 2)[, 1]) %>%
+  filter(block_group %in% blks) %>%
+  group_by(prolific_id, block_group) %>%
+  summarise(total_yes = sum(response, na.rm = TRUE), .groups = "drop") %>%
+  mutate(block_group = factor(block_group, levels = blks))
+
+# --- Plot ---
+colors <- c("spontaneous" = "lightgray", "general" = "darkgray", "specific" = "gray")
+
+p <- ggplot(dat_hist, aes(x = total_yes, fill = block_group)) +
+  geom_histogram(binwidth = 1, boundary = -0.5, color = "white", show.legend = FALSE) +
+  scale_fill_manual(values = colors) +
+  scale_x_continuous(breaks = seq(0, 10, 2), limits = c(-0.5, 10.5)) +
+  scale_y_break(
+  c(25, 100),
+  scales = "free",
+  space = 0.5
+) +      
+  facet_wrap(~block_group,
+             labeller = labeller(block_group = tools::toTitleCase)) +
+  labs(
+    x = 'Number of "Yes" Responses for Language Question (out of 10)',
+    y = "Number of Participants\n(out of 228)"
+  ) +
+  theme_classic() +
+theme(
+  strip.background = element_blank(),
+  strip.text = element_text(size = 12),
+  axis.text = element_text(size = 12),
+  axis.title = element_text(size = 12),
+  axis.text.x.top = element_blank(),
+  axis.ticks.x.top = element_blank(),
+  axis.line.x.top = element_blank()
+)
+
+svglite(paste0("./Figures_CogSci_042026/", study,"_", "inner_lang_ability.svg"), width =8, height = 5)
+print(p)
+dev.off()
+
+```
+
+```{r percentage in other blocks}
+df_main_spec <- df_main_clean %>% filter(block %in% specific)
+#average 2 spontaneous blocks
+df_main_spec <- df_main_spec %>% group_by(prolific_id,question)  %>%
+  summarise(resp_freq = round(mean(resp_freq),1), .groups = "drop")
+
+df_main_spec <- df_main_spec %>%
+  mutate(
+    freq_group = case_when(
+      resp_freq == 0                          ~ "Never",
+      resp_freq >= 0.1 & resp_freq <= 0.3     ~ "Rarely",
+      resp_freq >= 0.4 & resp_freq <= 0.6     ~ "Sometimes",
+      resp_freq >= 0.7 & resp_freq <= 0.9     ~ "Often",
+      resp_freq == 1                          ~ "Always",
+      TRUE                                    ~ NA_character_
+    )
+  )
+
+#freq_levels <- c("Never","Rarely","Sometimes","Often","Always")
+
+df_percent <- df_main_spec %>%
+  group_by(question, freq_group) %>%
+  summarise(n = n(), .groups = "drop") %>%
+  group_by(question) %>%
+  mutate(
+    percent = 100 * n / sum(n)
+  ) %>%
+  ungroup()
+df_percent
+
+```
+
+```{r correlation between Spontaneous and Specific}
+
+df_joined <- df_main_spont %>%
+  rename(resp_spont = resp_freq) %>%
+  inner_join(
+    df_main_spec %>% rename(resp_spec = resp_freq),
+    by = c("prolific_id", "question")
+  )
+
+df_corr <- df_joined %>%
+  group_by(question) %>%
+  summarise(
+    test = list(cor.test(resp_spont, resp_spec, method = "spearman")),
+    .groups = "drop"
+  ) %>%
+  mutate(
+    rho = sapply(test, function(x) x$estimate),
+    p   = sapply(test, function(x) x$p.value),
+    n   = sapply(test, function(x) x$parameter + 2)  # Spearman uses n-2 internally
+  ) %>%
+  select(question, rho, p, n)
+
+df_corr <- df_corr %>%
+  mutate(
+    p_adj = p.adjust(p, method = "fdr")
+  ) %>%
+  ungroup()
+
+df_corr <- df_corr %>%
+  mutate(
+    sig = case_when(
+      p_adj < 0.001 ~ "***",
+      p_adj < 0.01  ~ "**",
+      p_adj < 0.05  ~ "*",
+      TRUE ~ "ns"
+    )
+  )
+
+```
+
+# Correlation 
+
+```{r correlation between Qs}
+
+block_groups <- list(
+  spontaneous = spontaneous,
+  specific = c("specific_inner_hearing","specific_inner_speaking")
+)
+
+# generic function to average across blocks
+prepare_df <- function(df,blocks){
+  df %>% filter(block %in% blocks) %>%
+  group_by(prolific_id, question) %>%
+    summarise(resp_freq = mean(resp_freq, na.rm = TRUE), .groups = "drop")
+}
+
+
+for (group in c("spontaneous")) {
+df <- prepare_df(df_main_clean, block_groups[[group]])
+df_wide <- df %>% 
+  select(prolific_id, question, resp_freq) %>%
+  pivot_wider(names_from = question,
+              values_from = resp_freq) 
+
+mat <- df_wide %>% select(-prolific_id)
+
+res <- rcorr(as.matrix(mat), type = "spearman")  # recommend Spearman
+cor_mat <- res$r
+p_mat   <- res$P
+
+upper_idx <- upper.tri(p_mat)
+p_vals <- p_mat[upper_idx]
+p_adj_vals <- p.adjust(p_vals, method = "fdr")
+p_mat_adj <- p_mat
+p_mat_adj[upper_idx] <- p_adj_vals
+p_mat_adj[lower.tri(p_mat_adj)] <- t(p_mat_adj)[lower.tri(p_mat_adj)]
+
+sig_mat <- matrix("n.s.", nrow = nrow(p_mat_adj), ncol = ncol(p_mat_adj))
+
+sig_mat[p_mat_adj < 0.05]  <- "*"
+sig_mat[p_mat_adj < 0.01]  <- "**"
+sig_mat[p_mat_adj < 0.001] <- "***"
+diag(sig_mat) <- "" 
+
+label_mat <- matrix(
+  paste0(round(cor_mat, 2), "\n", sig_mat),
+  nrow = nrow(cor_mat)
+)
+
+cor_mat[lower.tri(cor_mat)] <- NA
+label_mat[lower.tri(label_mat)] <- ""
+library(reshape2)
+library(ggplot2)
+
+# cor_df <- melt(cor_mat, na.rm = FALSE)
+# label_df <- melt(label_mat)
+# 
+# cor_df$label <- label_df$value
+
+cor_df <- reshape2::melt(cor_mat, na.rm = FALSE)
+label_df <- reshape2::melt(label_mat)
+
+cor_df$label <- label_df$value
+
+# Remove NA values entirely
+cor_df <- cor_df[!is.na(cor_df$value), ]
+
+plot<-ggplot(cor_df, aes(Var1, Var2, fill = value)) +
+  geom_tile() +
+  geom_text(aes(label = label), size = 4) +
+  scale_fill_gradient2(
+    low = "#3B4CC0",
+    mid = "#E0E0E0",
+    high = "#C4001A",
+    limits = c(-1, 1),
+    name = "Spearman's ρ"
+  ) +
+  coord_fixed() + scale_y_discrete(limits = rev(levels(cor_df$Var2))) +
+  theme_minimal(base_size = 12) +
+  theme(
+    axis.title = element_blank(),
+    panel.grid = element_blank(),
+    axis.text.x = element_text(angle = 45, hjust = 1,size =10),
+    panel.border = element_blank()
+  )
+
+svglite(paste0("./Figures_CogSci_042026/", study,"_", group, "_Correlation_main_qs.svg"), width =7, height = 5)
+print(plot)
+dev.off()
+
+}
+```
+
+```{r separate for language use and forms of language}
+# currently not using this 
+make_corr_plot <- function(df, questions_subset, title_text) {
+  
+  # Subset
+  # df_subset <- df %>%
+  #   select(prolific_id, question, resp_freq) %>%
+  #   filter(question %in% questions_subset) %>%
+  #   pivot_wider(names_from = question,
+  #               values_from = resp_freq)
+  df_subset <- df %>%
+  select(prolific_id, question, resp_freq) %>%
+  filter(question %in% questions_subset) %>%
+  mutate(question = factor(question, levels = questions_subset)) %>%  # 👈 ADD THIS
+  pivot_wider(names_from = question,
+              values_from = resp_freq)
+  
+  mat <- df_subset %>% select(-prolific_id)
+  
+  # Spearman correlation
+  res <- rcorr(as.matrix(mat), type = "spearman")
+  cor_mat <- res$r
+  p_mat   <- res$P
+  
+  # -------- FDR within subset --------
+  upper_idx <- upper.tri(p_mat)
+  p_vals <- p_mat[upper_idx]
+  p_adj_vals <- p.adjust(p_vals, method = "fdr")
+  
+  p_mat_adj <- p_mat
+  p_mat_adj[upper_idx] <- p_adj_vals
+  p_mat_adj[lower.tri(p_mat_adj)] <- 
+    t(p_mat_adj)[lower.tri(p_mat_adj)]
+  
+  # -------- Significance labels --------
+  sig_mat <- matrix("n.s.", nrow = nrow(p_mat_adj), 
+                    ncol = ncol(p_mat_adj))
+  
+  sig_mat[p_mat_adj < 0.05]  <- "*"
+  sig_mat[p_mat_adj < 0.01]  <- "**"
+  sig_mat[p_mat_adj < 0.001] <- "***"
+  
+  diag(sig_mat) <- ""
+  
+  label_mat <- matrix(
+    paste0(round(cor_mat, 2), "\n", sig_mat),
+    nrow = nrow(cor_mat)
+  )
+  
+  # Upper triangle only
+  cor_mat[lower.tri(cor_mat)] <- NA
+  label_mat[lower.tri(label_mat)] <- ""
+  
+  # Melt
+  cor_df <- melt(cor_mat, na.rm = FALSE)
+  label_df <- melt(label_mat)
+  cor_df$label <- label_df$value
+  cor_df <- cor_df[!is.na(cor_df$value), ]
+  
+  # Plot
+  p <- ggplot(cor_df, aes(Var1, Var2, fill = value)) +
+    geom_tile() +
+    geom_text(aes(label = label), size = 3) +
+    scale_fill_gradient2(
+      low = "#3B4CC0",
+      mid = "#ECECEC",
+      high = "#C4001A",
+      limits = c(-1, 1),
+      name = "Spearman's ρ"
+    ) +
+    coord_fixed() +
+    scale_y_discrete(limits = rev(levels(cor_df$Var2))) +
+    theme_minimal(base_size = 10) +
+    theme(
+      axis.title = element_blank(),
+      panel.grid = element_blank(),
+      axis.text.x = element_text(angle = 45, hjust = 1, size = 10),
+      panel.border = element_blank()
+    ) +
+    ggtitle(title_text)
+  
+  return(p)
+}
+
+block_groups <- list(
+  spontaneous = spontaneous,
+  specific = c("specific_inner_hearing","specific_inner_speaking")
+)
+
+# generic function to average across blocks
+prepare_df <- function(df,blocks){
+  df %>% filter(block %in% blocks) %>%
+  group_by(prolific_id, question) %>%
+    summarise(resp_freq = mean(resp_freq, na.rm = TRUE), .groups = "drop")
+}
+
+df_spont <- prepare_df(df_main_clean, block_groups$spontaneous)
+df_specific <- prepare_df(df_main_clean, block_groups$specific)
+#df_speaking <- prepare_df(df_main_clean, block_groups$specific_speaking)
+
+# make the two plots and combine
+make_combined <- function(df, group_label){
+  p1 <- make_corr_plot(df, first_qs,  
+                        paste0(group_label, ": Language / Visual / Concept"))
+  p2 <- make_corr_plot(df, img_word,  
+                        paste0(group_label, ": Forms of Inner Language"))
+  
+  p1 / p2 + plot_layout(nrow = 2)
+}
+
+combined_spont    <- make_combined(df_spont,    "Spontaneous")
+combined_specific <- make_combined(df_specific,    "Specific")
+#combined_hearing  <- make_combined(df_hearing,  "Specific: Inner Hearing")
+#combined_speaking <- make_combined(df_speaking, "Specific: Inner Speaking")
+
+# save
+for (group in c("spontaneous", "specific")) {
+  
+  plot_obj <- switch(group,
+    spontaneous       = combined_spont,
+    specific  = combined_specific
+  )
+  
+  svglite(paste0("./Figures_Manuscript/", study, "_Correlation_", group, ".svg"), 
+          width = 6, height = 5)
+  print(plot_obj)
+  dev.off()
+}
+
+# plot_first <- make_corr_plot(
+#   df_main_spont,
+#   first_qs,
+#   "Correlation: Language / Visual / Concept"
+# )
+# 
+# plot_img <- make_corr_plot(
+#   df_main_spont,
+#   img_word,
+#   "Correlation: Forms of Inner Language"
+# )
+# 
+# # cross_qs <- c("img_visual","img_concept", "img_word_sound","img_word_orth","img_word_artic","img_word_pure")
+# # 
+# # plot_cross <- make_corr_plot(
+# #   df_main_spont,
+# #   cross_qs,
+# #   "Correlation: nonverbal-forms of language"
+# # )
+# 
+# print(plot_first)
+# print(plot_img)
+# # print(plot_cross)
+# 
+# combined_plot <- plot_first / plot_img +
+#   plot_layout(nrow = 2)
+# 
+# # print(combined_plot)
+# # ggsave(paste0("./Figures_Manuscript/", study,"_Correlation_main_qs_twopanel.png"), width=13, height=20, units="cm")
+# svglite(paste0("./Figures_Manuscript/", study, "_Correlation_main_qs_twopanel.svg"), width =6, height = 5)
+# print(combined_plot)
+# dev.off()
+
+```
+
+# Block effect
+
+```{r block effect plots prepare data}
+# df_main_freq <- df_main %>% group_by(block, prolific_id,question) %>%
+#   summarise(resp_freq = mean(response), .groups = "drop")
+# 
+# # average spontaenous
+# df_spontaneous <- df_main_freq %>%
+#   filter(block %in% c("spontaneous_reflexive","spontaneous_factual")) %>%
+#   group_by(prolific_id, question) %>%
+#   summarise(
+#     resp_freq = mean(resp_freq, na.rm = TRUE),
+#     block = "spontaneous",
+#     .groups = "drop"
+#   )
+
+df_spontaneous <- df_main %>%
+  filter(block %in% c("spontaneous_reflexive", "spontaneous_factual")) %>%
+  group_by(prolific_id, question) %>%
+  summarise(resp_freq = mean(response, na.rm = TRUE),
+            block = "spontaneous", .groups = "drop")
+
+# # average general 
+# df_general <- df_main_freq %>%
+#   filter(block %in% general) %>%
+#   group_by(prolific_id, question) %>%
+#   summarise(
+#     resp_freq = mean(resp_freq, na.rm = TRUE),
+#     block = "general",
+#     .groups = "drop"
+#   )
+# 
+# # average specific
+# df_specific <- df_main_freq %>%
+#   filter(block %in% specific) %>%
+#   group_by(prolific_id, question) %>%
+#   summarise(
+#     resp_freq = mean(resp_freq, na.rm = TRUE),
+#     block = "specific",
+#     .groups = "drop"
+#   )
+
+
+# df_main_freq_block <- bind_rows(df_specific, df_general,df_spontaneous)
+
+# df_other_blocks <- df_main_freq %>%
+#   filter(!block %in% spontaneous)
+
+df_other_blocks <- df_main %>%          # ← change from df_main_freq to df_main
+  filter(!block %in% spontaneous) %>%
+  group_by(prolific_id, block, question) %>%
+  summarise(resp_freq = mean(response, na.rm = TRUE), .groups = "drop")
+
+df_main_freq_new <- bind_rows(df_other_blocks,
+                              df_spontaneous)
+
+df_main_freq_new <- df_main_freq_new %>% mutate(
+  block = factor(block, levels = block_order)) %>% 
+  filter(question %in% all_qs) %>% mutate(question = factor(question, levels = all_qs))
+
+```
+
+```{r stats}
+# choose group
+df_main_freq_new <- df_main_freq_new #%>% filter(aud_group == "low")
+
+##  original code
+pairs_list <- list(
+  c("specific_inner_speaking", "general_inner_speaking"),
+  c("general_inner_speaking", "spontaneous"),
+  c("specific_inner_hearing",  "general_inner_hearing"),
+  c("general_inner_hearing",   "spontaneous"),
+  c("general_inner_hearing",   "general_inner_speaking"),
+  c("specific_inner_speaking", "specific_inner_hearing")
+)
+
+
+run_tests_one_question <- function(df, question_name) {
+  
+  df_q <- df %>%
+    filter(question == question_name) %>%
+    mutate(block = as.character(block)) %>%
+    select(prolific_id, block, resp_freq) %>%
+    pivot_wider(names_from = block,
+                values_from = resp_freq)
+
+  results <- lapply(pairs_list, function(p) {
+
+    b1 <- p[1]
+    b2 <- p[2]
+
+    if (!(b1 %in% colnames(df_q) & b2 %in% colnames(df_q))) {
+      return(NULL)
+    }
+
+    tmp <- df_q %>%
+      select(prolific_id, all_of(b1), all_of(b2)) %>%
+      filter(complete.cases(.))
+    
+    d <- tmp[[b1]] - tmp[[b2]]
+    d <- d[d != 0]
+    test <- wilcox.test(
+      d,
+      mu = 0,
+      paired = FALSE,
+      alternative = "two.sided",
+      correct = FALSE,
+      exact = FALSE
+    )    
+    
+    # test <- wilcox.test(
+    #   tmp[[b1]],
+    #   tmp[[b2]],
+    #   paired = TRUE,
+    #   alternative = "two.sided",
+    #   correct = FALSE,
+    #   exact = FALSE
+    # )
+
+    data.frame(
+      question = question_name,
+      block1 = b1,
+      block2 = b2,
+      p_value = test$p.value
+    )
+  })
+
+  bind_rows(results)
+}
+
+q_test <- c(first_qs,img_word)
+all_tests <- lapply(q_test,
+                    function(q) run_tests_one_question(df_main_freq_new, q))
+# all_tests <- lapply(unique(df_main_freq_new$question),
+#                     function(q) run_tests_one_question(df_main_freq_new, q))
+
+test_results <- bind_rows(all_tests)
+
+test_results <- test_results %>%
+  mutate(
+    q_group = case_when(
+      question %in% first_qs ~ "first_qs",
+      question %in% img_word ~ "img_word",
+      TRUE ~ NA_character_
+    )
+  )
+
+test_results <- test_results %>%
+  group_by(q_group) %>%   # group-level correction
+  mutate(
+    p_adj = p.adjust(p_value, method = "fdr")
+  ) %>%
+  ungroup()
+
+# test_results <- test_results %>%
+#   mutate(
+#     p_adj = p.adjust(p_value, method = "fdr")
+#   ) %>%
+#   ungroup()
+
+test_results <- test_results %>%
+  mutate(
+    sig = case_when(
+      p_adj < 0.001 ~ "***",
+      p_adj < 0.01  ~ "**",
+      p_adj < 0.05  ~ "*",
+      TRUE ~ "ns"
+    )
+  )
+
+
+```
+
+```{r plot with stats}
+
+library(ggsignif)
+
+# Step 1: offset lookup table
+df_main_freq_new <- df_main_freq_new %>%
+  mutate(
+    question = factor(question),
+    block    = factor(block)
+  ) #%>% filter(question %in% q_test)
+question_levels <- levels(df_main_freq_new$question)
+block_levels    <- levels(df_main_freq_new$block)
+n_blocks        <- length(block_levels)
+dodge_width     <- 0.8
+
+dodge_offsets <- seq(
+  -dodge_width / 2 + dodge_width / (2 * n_blocks),
+   dodge_width / 2 - dodge_width / (2 * n_blocks),
+  length.out = n_blocks
+)
+
+offset_df <- tibble(
+  block  = block_levels,
+  offset = dodge_offsets
+)
+
+# Step 2: build annotation_df with correct x positions
+# Compute the max bar height (mean + SE) per question as the baseline
+bar_tops <- df_main_freq_new %>%
+  group_by(question, block) %>%
+  summarise(
+    mean_val = mean(resp_freq, na.rm = TRUE),
+    se_val   = sd(resp_freq, na.rm = TRUE) / sqrt(n()),
+    top      = mean_val + se_val,
+    .groups  = "drop"
+  ) %>%
+  group_by(question) %>%
+  summarise(bar_top = max(top, na.rm = TRUE), .groups = "drop") %>%
+  mutate(question = as.character(question))
+
+annotation_df <- test_results %>%
+  #filter(sig != "n.s.") %>%
+  mutate(
+    question = factor(question, levels = question_levels),
+    q_idx    = as.numeric(question),
+    block1   = as.character(block1),
+    block2   = as.character(block2)
+  ) %>%
+  left_join(offset_df, by = c("block1" = "block")) %>%
+  rename(offset1 = offset) %>%
+  left_join(offset_df, by = c("block2" = "block")) %>%
+  rename(offset2 = offset) %>%
+  mutate(
+    xmin = q_idx + pmin(offset1, offset2),
+    xmax = q_idx + pmax(offset1, offset2)
+  ) %>%
+  left_join(bar_tops, by = c("question" = "question")) %>%  # attach bar top per question
+  group_by(question) %>%
+  arrange(xmax - xmin, .by_group = TRUE) %>%
+  mutate(y_position = bar_top + 0.05 + (row_number() - 1) * 0.07) %>%  # start just above bar
+  ungroup()
+
+annotation_df <- annotation_df %>%
+  mutate(
+    panel = case_when(
+      question %in% first_qs ~ "General",
+      question %in% img_word ~ "Forms of Language",
+      TRUE ~ NA_character_
+    )
+  ) %>%
+  filter(!is.na(panel))
+
+annotation_df <- annotation_df %>% mutate(panel = factor(panel, levels = c("General","Forms of Language")))
+
+df_main_freq_new <- df_main_freq_new %>%
+  mutate(
+    panel = case_when(
+      question %in% first_qs ~ "General",
+      question %in% img_word    ~ "Forms of Language"
+    )
+  ) %>% mutate(panel = factor(panel, levels = c("General","Forms of Language")))
+
+# Step 3: plot
+plot <- ggplot(df_main_freq_new,
+               aes(x = as.numeric(factor(question, levels = question_levels)),
+                   y = resp_freq, fill = block)) +
+  geom_bar(stat = "summary", fun = "mean",
+           position = position_dodge(width = dodge_width), width = 0.75) +
+  geom_errorbar(stat = "summary", fun.data = mean_se,
+                position = position_dodge(width = dodge_width), width = 0.2) +
+  # horizontal line
+  geom_segment(
+    data = annotation_df,
+    aes(x = xmin, xend = xmax, y = y_position, yend = y_position),
+    inherit.aes = FALSE
+  ) +
+  # significance label at midpoint
+  geom_text(
+  data = annotation_df,
+  aes(
+    x = (xmin + xmax) / 2,
+    y = y_position + 0.01 + ifelse(sig == "ns", 0.03, 0),  # 
+    label = sig
+  ),
+  inherit.aes = FALSE,
+  size = 4
+) +
+  scale_x_continuous(
+    breaks = seq_along(question_levels),
+    labels = question_levels
+  ) + facet_wrap(~ panel,scales = "free_x") +
+  scale_y_continuous(limits = c(0, 1.55), breaks = seq(0, 1.2, 0.2)) +
+  theme_classic(base_size = 15) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  scale_fill_manual(values = BLOCK_COLORS_avg_Spont) +
+  labs(x = "Question", y = "Mean response frequency", fill = "Block")
+
+svglite(paste0("./Figures_CogSci_042026/", study,"_", group, "_block_effect.svg"), width =10, height = 5)
+print(plot)
+dev.off()
+```
+
+
+# correlation w/ Psi-Q
+
+```{r psi-q distribution}
+
+p <- ggplot(df_psiq, aes(x = response)) +
+    geom_histogram(bins = 20, color = "white") +
+    facet_wrap(~ question, scales = "free_y", ncol=7) +
+    labs(
+      x = "Psi-Q responses",
+      y = "Number of subjects"
+    ) +
+    theme_classic(base_size = 10) +
+    theme(
+      axis.text.x = element_text(angle = 45, hjust = 1,size=6),
+      strip.text = element_text(size = 5)
+    )
+
+```
+
+```{r psiq and main Q}
+block_to_use <- spontaneous
+save_name <- "spont"
+qs_psiq <- c("psiq_vision","psiq_sound","psiq_smell","psiq_taste","psiq_touch","psiq_kinesthetic","psiq_emotional")
+
+
+df_main_freq <- df_main %>% filter(block %in% block_to_use) %>% filter(question %in% all_qs)
+df_main_freq <- df_main_freq %>% group_by(prolific_id,question)  %>%
+  summarise(resp_freq_main = mean(response), .groups = "drop") 
+
+df_main_freq_w <- df_main_freq %>% pivot_wider(
+  names_from = question,
+  values_from = resp_freq_main
+)
+
+#df_psiq <- df_psiq %>% mutate(question = factor(question, levels = rev(qs_psiq)))
+df_psiq_w <- df_psiq %>% pivot_wider(
+  names_from = question,
+  values_from = response
+) %>% select(-experiment)
+
+df_merged <- df_main_freq_w %>%
+  inner_join(df_psiq_w, by = "prolific_id")
+
+vars_main <- df_merged %>%
+  select(matches("^(img_)")) %>%
+  colnames()
+
+vars_psiq <- df_merged %>%
+  select(starts_with("psiq_")) %>%
+  colnames()
+
+mat_main  <- as.matrix(df_merged[, vars_main])
+mat_psiq  <- as.matrix(df_merged[, vars_psiq])
+
+# rcorr requires one matrix, so bind columns
+res <- rcorr(cbind(mat_main, mat_psiq), type = "spearman")
+
+cor_mat <- res$r
+p_mat   <- res$P
+
+cor_cross <- cor_mat[vars_main, vars_psiq]
+p_cross   <- p_mat[vars_main, vars_psiq]
+
+p_adj <- matrix(
+  p.adjust(as.vector(p_cross), method = "fdr"),
+  nrow = nrow(p_cross),
+  dimnames = dimnames(p_cross)
+)
+
+
+sig_mat <- matrix("",
+                  nrow = nrow(p_adj),
+                  ncol = ncol(p_adj),
+                  dimnames = dimnames(p_adj))
+
+sig_mat[p_adj < 0.05]  <- "*"
+sig_mat[p_adj < 0.01]  <- "**"
+sig_mat[p_adj < 0.001] <- "***"
+
+label_mat <- matrix(
+  paste0(round(cor_cross, 2), "\n", sig_mat),
+  nrow = nrow(cor_cross),
+  dimnames = dimnames(cor_cross)
+)
+
+cor_df   <- reshape2::melt(cor_cross)
+label_df <- reshape2::melt(label_mat)
+
+colnames(cor_df)   <- c("img_var", "psiq_var", "rho")
+colnames(label_df) <- c("img_var", "psiq_var", "label")
+
+plot_df <- merge(cor_df, label_df,
+                 by = c("img_var", "psiq_var"))
+plot_df$psiq_var <- factor(plot_df$psiq_var, levels = qs_psiq)
+plot_df$img_var <- factor(plot_df$img_var, levels = rev(all_qs))
+
+plot <- ggplot(plot_df, aes(y = img_var, x = psiq_var, fill = rho)) +
+  geom_tile(color = "white") +
+  geom_text(aes(label = label), size = 4) +
+  scale_fill_gradient2(
+    low = "#3B4CC0",
+    mid = "#E0E0E0",
+    high = "#C4001A",
+    limits = c(-0.3, 0.3),
+    name = "Spearman's ρ"
+  ) +
+  coord_fixed() +
+  theme_minimal(base_size = 10) +
+  theme(
+    axis.title = element_blank(),
+    panel.grid = element_blank(),
+    axis.text.x = element_text(angle = 45, hjust = 1)
+  )
+
+plot
+ggsave(paste0('./Figures_CogSci_042026/', save_name, '_Psiq2main.png'), width=13, height=13, units="cm")
+```
+
